@@ -32,17 +32,36 @@ Otras observaciones respecto a la metodología que implementaremos es:
 - Scrum master: Chavez Bagundo Emanuel
 - Equipo de desarrollo: Chavez Bagundo Emanuel, Maldonado Santiago Gildardo Adrián, Flores Juárez Víctor y Vargas Alonso Esteban.
 
-
 ## Medios de comunicación
 
 El equipo se comunicará por medio de las aplicaciones de WhatsApp, Microsoft Teams y Discord respectivamente.
 - WhatsApp: Esta aplicación será el medio principal de comunicación del equipo, donde se acordarán todas las reuniones, cambios, ideas e implementaciones que podrían agregarse al proyecto.
 - Microsoft Teams: Por esta aplicación se realizarán las juntas semanales con el asesor/profesor: Edgar Cambranes, a quien le mostraremos nuestros avances semanales del proyecto.
 - Discord: Esta aplicación nos servirá como la alternativa principal para la comuncicación en caso de que WhatsApp se encuentre fuera de servicio. Adicionalmente, en esta aplicación se creará un servidor donde observaremos la eficacia del bot.
-
-## Metodos y herramientas
+## Instrumentos de trabajo 
+- Github
+- Trello
+- WhatsApp
+- Microsoft Teams
+- Replit
+- Discord
+- Discord Developer Portal
+- UptimeRobot
+## Métodos y herramientas
 - Para la codificación del bot, usaremos Replit.
 - Para el funcionamiento del bot, se utilizará la plataforma "Discord". Discord, es la plataforma de comunicación por excelencia para muchos grupos de personas, entre ellos los “gamers”, que son el principal público que tendrá nuestro proyecto. Es la plataforma donde ocurrirá la interacción entre el usuario y nuestro bot.
 - Eldorado.gg es una plataforma para comprar diversos elementos relacionados con videojuegos, entre sus servicios tenemos: venta de objetos para juegos, venta de cuentas y servicio de boosting. Es la plataforma que se busca complementar con nuestro bot.
 - UptimeRobot es una plataforma que nos va a permitir mantener activo el bot las 24 horas del día. 
 - Discord Developer Portal es el núcleo de nuestro bot, aquí es donde "damos de alta" el bot.
+## Panificación 
+### Responsabilidades individuales 
+  - Gildado Adrián Maldonado Saantiago
+  Coordinadar el equipo para buscar la eficiencia, repartir el trabajo entre todos los integrantes del equipo y ser el contacto con el profesor ante una emergencia.
+  - Emanuel Chavez Bagundo
+  Trajar en las tareas asignadas por el jefe del equipo, supervisar al equipo con base en las tareas que se les asignó.
+  - Esteban Vargas Alonso
+  Trajar en las tareas asignadas por el jefe del equipo, ayudar en la parte de la documentación y del proceso de desarrollo. 
+  - Flores Juárez Manuel 
+   Trajar en las tareas asignadas por el jefe del equipo, audar en la parte de la domcumentación y del proceso de desarrollo. 
+### Responsabilidades generales 
+Trabajar de manera correcta y positiva; e informar de los cambios realizados al proyecto. Buscar la manera de ayudar a los demás integrantes y ser proactivo a la hora de trabajar y de participar en el proyecto. 
