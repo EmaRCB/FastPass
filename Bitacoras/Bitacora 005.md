@@ -1,3 +1,3 @@
 # Bitácora 005.
-- Fecha: 29 de Septiembre de 2021
+- Fecha: 1 de Octubre de 2021
 - Descripción: En este día se presentó una parte de los avances del proyecto en la clase de programación orientada a objetos, durante la presentación el profesor Edgar Cambranes mencionó que se tenía que hacer los casos de usos primero para dar más claridad al proyecto por lo que en la tarde se comenzó a trabajar en los casos de usos, sumado a esto, el profesor pidió el diagrama de clases de nuestro proyecto para la siguiente sesión, por lo que se empezó a realizar el diagrama de clases. Durante la investigación para la realización de los casos de uso se propuso trabajar con el lenguaje de programación Java para la creación del bot. 
