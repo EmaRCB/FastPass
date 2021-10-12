@@ -1,15 +1,7 @@
 # Planeación del Proyecto
 
 ## Plan de investigación (Informacion requerida)
-### Discord
-Es un servicio de mensajería instantánea freeware de chat de voz, video y chat por texto. Funciona a través de servidores y está separado en canales de texto o de voz.
-Dentro de este servicio se planea implementar nuestro proyecto. 
-### Bots
-Dentro de los canales de Discord existe la posibilidad de invocar bots a través de comandos, estos bots son pequeños programas programados para realizar diferentes tipos de tareas de forma automática, ya sean interacciones simples con otros usuarios de tu servidor o tareas un poco más complejas.
-### Eldorado.gg
-Es una plataforma online enfocada en la compra y venta de objetos, skins y cuentas de videojuegos. Es una medio muy usado entre los gamers para realizar transacciones de forma confiable.  
-### League of leagends
-Es un videojuego multijugador de arenas de batallas en línea. Actualmente cuenta con más de 115 millones de jugadores mensuales convirtiéndolo en el videojuego número uno por horas de juego 
+
 ## Calendario de actividades y responsabilidades
 
 | # | Actividad | Fecha | Responsable | Productos/artefactos resultantes |
