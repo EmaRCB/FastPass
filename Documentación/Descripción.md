@@ -1,16 +1,17 @@
 # Descripcion del Proyecto
 
 ## Objetivo general
-Nuestro objetivo general es desarrollar un bot para la plataforma de mensajería instantánea “Discord” que complemente la plataforma “eldorado.gg”, en concreto su apartado de venta de cuentas de distintos videojuegos, donde el usuario sea capaz de buscar en Discord una cuenta de League of Legends con especificaciones y que el bot genere el link donde se alojan las cuentas, basada en ciertas condiciones especificadas en el comando introducido, finalmente, el bot le regresa al usuario, en forma de mensaje, el link de las cuentas encontradas.
+Desarrollar un bot para la plataforma de mensajería instantánea “Discord” que complemente la plataforma “eldorado.gg”, en concreto, su apartado de venta de cuentas de distintos videojuegos, donde el usuario sea capaz de buscar en Discord una cuenta de League of Legends con especificaciones y, que el bot genere el link donde se alojan las cuentas, basada en ciertas condiciones especificadas en el comando introducido. Finalmente, el bot le regresa al usuario, en forma de mensaje, el link de las cuentas encontradas.
 
 
 ## Objetivos especificos
--
--
--
+-Lanzar una herramienta gratis y de gran calidad, que complemente a la plataforma eldorado.gg acercándola más al ambiente del público al que se dirige, como lo es el servicio de mensajería instantánea Discord. Este bot podrá ser invocado en cualquier servidor, facilitándole la tarea a cualquiera que lo utilice, de encontrar una cuenta en venta que satisfaga los requisitos que el usuario solicite, mediante la generación de un link.
+
+***
 
 ## Usuarios
-
-## Cliente
+### Usuarios de discord con interés en comprar una cuenta de League Of Legends
+- Cualquier usuario de Discord que interese en comprar una cuenta de League of Legends y quiera hacerlo desde su servidor, podrá invocar al bot.
 
 ## Innovación
+- Discord es una plataforma que ha crecido a pasos agigantados en los últimos años, siendo una herramienta esencial para cualquier fanático de los videojuegos que disfrute de jugar con sus amigos, o encontrar comunidades con quién hablar de sus juegos favoritos. Cada vez se implementan más y más bots con nuevas y mejores funcionalidades, que buscan mejorar la experiencia del usuario con diferentes acciones. El mercado de cuentas es un mercado reciente con una gran ventana de expansión, y buscamos darle a los usuarios una experiencia sencilla en la compra de estas, desde la comodidad de su servidor favorito.
