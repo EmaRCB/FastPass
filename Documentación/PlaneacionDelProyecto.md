@@ -2,16 +2,16 @@
 
 ## Plan de investigación (Informacion requerida)
 - [Desarrollo del bot](https://www.python.org/about/)
-- [Monitereo](https://uptimerobot.com/)
+- [Monitoreo](https://uptimerobot.com/)
 - [Aplicación en Discord](https://discord.com/developers/docs/intro)
 ## Calendario de actividades y responsabilidades
 
 | # | Actividad | Fecha | Responsable | Productos/artefactos resultantes |
 | --- | ----------- | ----- | -------------- | ---------------------- |
 | 1 | Planeación del proyecto | 22/Sep - 28/Sep | Todo el equipo | Elección del proyecto |
-| 2 | Definiciòn del proyecto | 29/Sep - 5/Oct | Todo el equipo | Primera versión de los casos de uso, diagrama de clases y requerimientos del proyecto |
-| 3 | Documentación del proyecto | 5/Oct - 12/Oct | Todo el equipo | Se inicia la documentaciòn del proyecto y, una vez exista, el almacenamiento de los documentos en el repositorio |
-| 4 | Creacion del repositorio | 6/Octubre | Todo el equipo | Creacion del repositorio con la descripción del proyecto |
+| 2 | Definición del proyecto | 29/Sep - 5/Oct | Todo el equipo | Primera versión de los casos de uso, diagrama de clases y requerimientos del proyecto |
+| 3 | Documentación del proyecto | 5/Oct - 12/Oct | Todo el equipo | Se inicia la documentación del proyecto y, una vez exista, el almacenamiento de los documentos en el repositorio |
+| 4 | Creación del repositorio | 6/Octubre | Todo el equipo | Creación del repositorio con la descripción del proyecto |
 | 5 | Recopilación de la información para la primera entrega | 9/Oct - 11/Oct | Todo el equipo | Requerimientos, casos de uso, diagrama de clases, descripción del proyecto |
 | 6 | Presentación de la información para la primera entrega | 11/Oct - 12/Oct | Todo el equipo | Video con la información pedida para la primera entrega y el repositorio actualizado |
 | 7 | Definición de roles | 13/Oct - 15/Oct | Todo el equipo | Organización de los roles de equipo y responsabilides para la codificación y diseño del bot |
