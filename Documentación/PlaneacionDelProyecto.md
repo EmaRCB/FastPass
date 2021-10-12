@@ -6,7 +6,7 @@ Es un servicio de mensajería instantánea freeware de chat de voz, video y chat
 Dentro de este servicio se planea implementar nuestro proyecto. 
 ### Bots
 Dentro de los canales de Discord existe la posibilidad de invocar bots a travéz de comandos, estos bots son pequeños programas programados para realizar diferentes tipos de tareas de forma automática, ya sean interacciones simples con otros usuarios de tu servidor o tareas un poco más complejas como reproducir música.
-
+##
 ## Calendario de actividades y responsabilidades
 
 | # | Actividad | Fecha | Responsable | Productos/artefactos resultantes |
