@@ -1,7 +1,9 @@
 # Planeación del Proyecto
 
 ## Plan de investigación (Informacion requerida)
-
+- [Desarrollo del bot](https://www.python.org/about/)
+- [Monitereo](https://uptimerobot.com/)
+- [Aplicación de bot](https://discord.com/developers/docs/intro)
 ## Calendario de actividades y responsabilidades
 
 | # | Actividad | Fecha | Responsable | Productos/artefactos resultantes |
