@@ -1,5 +1,3 @@
-# Responsabilidades y Contribuciones
-
 ## Responsabilidades
 ### Responsabilidades generales 
 Trabajar de manera correcta y positiva; e informar de los cambios realizados al proyecto. Buscar la manera de ayudar a los demás integrantes y ser proactivo a la hora de trabajar y de participar en el proyecto. 
