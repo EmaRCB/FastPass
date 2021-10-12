@@ -9,8 +9,8 @@
 
 ### Requerimientos funcionales
 - RF001. Forma de responder.
-Prioridad: Alta
-Descripción: El bot responde con un mensaje tras detectar uno de los comandos para los que fue programado.
+- Prioridad: Alta
+- Descripción: El bot responde con un mensaje tras detectar uno de los comandos para los que fue programado.
 - RF002. Comando de ayuda.
 Prioridad: Alta
 Descripción: El bot responde con los comandos disponibles.
