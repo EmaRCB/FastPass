@@ -1,11 +1,11 @@
 # Definicion de Requerimientos
 
-
-## Requerimientos del sistema
-
-### Requerimientos de usuario
+## Requerimientos de usuario
 - El bot debe ser capaz de leer los comandos introducidos por el usuario.
 - El bot debe ser capaz de diferenciar los comandos introducidos por el usuario.
+
+
+## Requerimientos del sistema
 
 ### Requerimientos funcionales
 - RF001. Forma de responder.
