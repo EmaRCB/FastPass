@@ -30,7 +30,7 @@ Subjetivamente como equipo asignares el tamaño de camisa a cada terea realizada
 
 **Contribución actual. Ultima actualización: 12/10/2021**
 
-**Total de puntos:**
+**Total de puntos:** 93 pts
 
 **Emanuel Chávez:**
 
