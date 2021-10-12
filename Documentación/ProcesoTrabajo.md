@@ -37,7 +37,7 @@ Otras observaciones respecto a la metodología que implementaremos es:
 El equipo se comunicará por medio de las aplicaciones de WhatsApp, Microsoft Teams y Discord respectivamente.
 - WhatsApp: Esta aplicación será el medio principal de comunicación del equipo, donde se acordarán todas las reuniones, cambios, ideas e implementaciones que podrían agregarse al proyecto.
 - Microsoft Teams: Por esta aplicación se realizarán las juntas semanales con el asesor/profesor: Edgar Cambranes, a quien le mostraremos nuestros avances semanales del proyecto.
-- Discord: Esta aplicación nos servirá como la alternativa principal para la comuncicación en caso de que WhatsApp se encuentre fuera de servicio. Adicionalmente, en esta aplicación se creará un servidor donde observaremos la eficacia del bot.
+- Discord: Esta aplicación nos servirá como la alternativa principal para la comunicación en caso de que WhatsApp se encuentre fuera de servicio. Adicionalmente, en esta aplicación se creará un servidor donde observaremos la eficacia del bot.
 ## Instrumentos de trabajo 
 - Github
 - Trello
