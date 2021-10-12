@@ -5,7 +5,9 @@ Desarrollar un bot para la plataforma de mensajería instantánea “Discord” 
 
 
 ## Objetivos especificos
--Lanzar una herramienta gratis y de gran calidad, que complemente a la plataforma eldorado.gg acercándola más al ambiente del público al que se dirige, como lo es el servicio de mensajería instantánea Discord. Este bot podrá ser invocado en cualquier servidor, facilitándole la tarea a cualquiera que lo utilice, de encontrar una cuenta en venta que satisfaga los requisitos que el usuario solicite, mediante la generación de un link.
+- Lanzar una herramienta gratis y de gran calidad, que complemente a la plataforma eldorado.gg acercándola más al ambiente del público al que se dirige
+- Acercar la transacción de cuentas al invocar el bot en cualquier servidor, facilitándole la tarea a cualquiera que lo utilice de encontrar una cuenta en venta que satisfaga los requisitos que el usuario solicite, mediante la generación de un link.
+- Crear lazos confiables de compra-venta entre jugadores de League of Legends.
 
 ***
 
