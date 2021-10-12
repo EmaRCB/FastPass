@@ -54,5 +54,12 @@ El equipo se comunicará por medio de las aplicaciones de WhatsApp, Microsoft Te
 - UptimeRobot es una plataforma que nos va a permitir mantener activo el bot las 24 horas del día. 
 - Discord Developer Portal es el núcleo de nuestro bot, aquí es donde "damos de alta" el bot.
 ## Planificación 
+Se planificará con base al cronograma de actividades del equipo para tener un objetivo de lo que se espera lograr en cada una de las entregas del proyecto y así poder determinar que partes del proyecto se necesitan cambiar o eliminar conforme se avance en el proyecto. 
+Esta planificación se llevara con ayuda de  Trello, en donde el tablero del equipo contará con tres apartados que son:
+-Pendientes: En donde se encontraran las tareas que falta por realizar, usando colores distintivos para identificar al integrante al que le pertenece la tarea.
+-Revisión: Tareas ya realizadas, pero que necesitan por motivos necesitan una revisión por otros integrantes del equipo antes de considerarse completas.
+-Hecho: Aquellas tareas que ya fueron completadas y se encuentran aprobadas.  
+y usando como base el cronograma de actividades para así poder cumplir con lo que se espera del poryecto en cada una de las entregas, actualizando la documentacion conforme el proyecto vaya avanzando.
+Sumado a esto se realizaran reuniones de equipo por medio de la plataforma de teams en la que se comentaran los avances y necesidades del proyecto. Esto para tener un diálogo directo entre los intrigantes del equipo.
 ## Monitoreo
 Para el monitoreo de actividades, a cada miembro de equipo se le otorgará una actividad especifica necesaria durante los sprint planning. Una vez realizada la actividad, el usuario tendrá que notificar a sus compañeros, ya sea en un daily meeting o durante el sprint review. Ya que todas las actividades necesarias sean repartidas, el product owner deberá ordenarlas en un documento en la aplicación [Trello](https://trello.com/invite/b/1znV3Ph3/2e82d0833387d8dcf2a1ffd1ef8e9d9d/fastpass), donde existiràn 3 apartados: "Pendiente", "Necesita revisión" y "Finalizado". Todas las actividades iniciarán en el apartado pendiente y, una vez terminadas, serán traspasadas al apartado de "Finalizado". En caso de tener dudas acerca de una actividad, el miembro a cargo de ella deberá mover la actividad al apartado de "Necesita revisión" y anunciarlo en el grupo de WhatsApp, donde el resto del equpo ayudará para completar la tarea.
