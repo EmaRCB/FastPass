@@ -1,8 +1,8 @@
 # Definicion de Requerimientos
 
 ## Requerimientos de usuario
-- El bot debe ser capaz de leer los comandos introducidos por el usuario.
-- El bot debe ser capaz de diferenciar los comandos introducidos por el usuario.
+- El bot debe leer los comandos introducidos por el usuario.
+- El bot debe diferenciar los comandos introducidos por el usuario.
 
 
 ## Requerimientos del sistema
@@ -21,7 +21,7 @@ Descripción: El bot responde con el link donde se encuentran las cuentas.
 ### Requerimientos no funcionales
 - RNF011. Accesibilidad solo a usuarios de Discord.
 Prioridad: Baja
-Descripción: Para poder invocar al bot, el usuario necesitarà estar registrado en Discord y ser parte de un servidor en específico, al cual será añadido el bot.
+Descripción: Para poder invocar al bot, el usuario necesitará estar registrado en Discord y ser parte de un servidor en específico, al cual será añadido el bot.
 - RNF002. Forma de ingresar.
 Prioridad: Alta.
 Descripción: El bot estará disponible en la página web bots.ondiscord.xyz, donde el usuario buscará el bot y posteriormente, lo añadirá al servidor seleccionado en Discord.
