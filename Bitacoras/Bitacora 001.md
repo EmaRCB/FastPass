@@ -1,3 +1,3 @@
 # Bitácora 001.
-Fecha:
-Descripción:
+- Fecha: 22 de septiembre del 2021
+- Descripción: Nos reunimos por primera vez con el profesor para platicar acerca del proyecto y lo que íbamos a desarrollar. La primera idea, debido a que éramos 2 personas en el equipo, era la de un reloj checador. Recibimos comentarios del profesor acerca de ello, y cómo buscaba que todos realizáramos algo original, sin embargo, no original en la parte de implementación de código, sino de idea o producto. Así fue, como, después de esta reunión, comenzó a elaborarse la idea de hacer una página web de ventas de cuentas de videojuegos, una idea no tan nueva, pero con un mercado creciente y un poco monopolizada.
