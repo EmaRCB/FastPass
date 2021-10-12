@@ -26,3 +26,9 @@ Subjetivamente como equipo asignares el tamaño de camisa a cada terea realizada
 | M | 3 puntos |
 | L | 5 puntos |
 | XL | 8 puntos |
+**Contribución actual. | Ultima actualización: 12/10/2021**
+**Total de puntos:**
+**Emanuel Chávez:**
+**Victor Flores:**
+**Gildardo Maldonado:**
+**Esteban Vargas:**
