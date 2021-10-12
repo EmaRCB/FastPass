@@ -5,7 +5,7 @@
 - Flores Juárez Víctor
 - Chavez Bagundo Emanuel
 - Maldonado Santiago Gildardo Adrián
-- Pacheco Esteban
+- Vargas Alonso Esteban
 
 
 ### ¿Qué es FastPass?
