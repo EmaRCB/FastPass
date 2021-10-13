@@ -27,7 +27,7 @@ El principal público que consume estas cuentas son personas que desean cuentas 
 - [Responsabilidades y Contribuciones](https://github.com/EmaRCB/FastPass/blob/main/Documentaci%C3%B3n/ResponsabilidadesYContribuciones.md)
 
 ### Proyecto
-- [Entrega 1: Video]
+- [Entrega 1: Video](https://www.youtube.com/watch?v=s1gIvcFXaV4)
 
 
 
