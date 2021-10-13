@@ -46,3 +46,6 @@ Subjetivamente como equipo asignares el tamaño de camisa a cada terea realizada
 **Gildardo Maldonado:** 35 / 20.11%
 
 **Esteban Vargas:** 38 / 21.83%
+
+## Porcentaje de avance 
+Para la primera entrega de avances del proyecto se completó la documentación requerida como se tenía estipulado en la planeación de tareas del proyecto, por lo que como equipo determinamos que el proyecto está un 33.33% completo, debido a que falta la parte de programación y su respectiva documentación.  
