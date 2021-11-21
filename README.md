@@ -29,6 +29,9 @@ El principal público que consume estas cuentas son personas que desean cuentas 
 ### Proyecto
 - [Entrega 1: Video](https://www.youtube.com/watch?v=s1gIvcFXaV4)
 
+### Plataforma Replit donde se almacena el código trabajado
+- [Código](https://replit.com/join/eipynupacf-cpachas)
+
 
 ## Bitacoras 
 - [Carpeta de bitacoras](https://github.com/EmaRCB/FastPass/tree/main/Bitacoras)
