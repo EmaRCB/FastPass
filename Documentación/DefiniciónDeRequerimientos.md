@@ -3,6 +3,7 @@
 ## Requerimientos de usuario
 - El bot debe leer los comandos introducidos por el usuario.
 - El bot debe diferenciar los comandos introducidos por el usuario.
+- El bot debe generar el link correcto solicitado por el usuario.
 
 
 ## Requerimientos del sistema
@@ -16,7 +17,7 @@ Descripción: El bot responde con un mensaje tras detectar uno de los comandos p
 
 - RF002. Comando de ayuda.
 
-Prioridad: Alta
+Prioridad: Media
 
 Descripción: El bot responde con los comandos disponibles.
 
@@ -25,6 +26,12 @@ Descripción: El bot responde con los comandos disponibles.
 Prioridad: Alta
 
 Descripción: El bot responde con el link donde se encuentran las cuentas.
+
+- RF004. Creación paso a paso.
+
+Prioridad: Media
+
+Descripción: El bot ayuda al usuario paso a paso a generar el codigo mediante una interacción bot-usuario.
 
 ### Requerimientos no funcionales
 - RNF011. Accesibilidad solo a usuarios de Discord.
@@ -35,7 +42,7 @@ Descripción: Para poder invocar al bot, el usuario necesita estar registrado en
 
 - RNF002. Forma de ingresar.
 
-Prioridad: Alta.
+Prioridad: Media.
 
 Descripción: El bot estará disponible en la página web bots.ondiscord.xyz, donde el usuario buscará el bot y posteriormente, lo añadirá al servidor seleccionado en Discord.
 
