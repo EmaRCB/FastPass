@@ -47,7 +47,7 @@ Prioridad: Alta
 Descripción: El bot es capaz de recibir distinto número de parámetros, así como recibirlos en un orden distinto.
 
 ### Requerimientos no funcionales
-- RNF011. Accesibilidad solo a usuarios de Discord.
+- RNF001. Accesibilidad solo a usuarios de Discord.
 
 Prioridad: Baja
 
