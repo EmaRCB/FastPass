@@ -13,7 +13,7 @@
 FastPass es un bot desarrollado para la plataforma de mensajería instantánea "Discord" que, mediante el uso de comandos en un canal de texto, entregue a los usuarios de Discord, cuentas de videojuegos con características específicas que estén a la venta en la plataforma "eldorado.gg", generando el link donde se alojen esas cuentas y enviándolo a los usuarios en forma de mensaje a través de una canal de texto.
 
 ### ¿A quién va dirigido?
-El principal público que consume estas cuentas son personas que desean cuentas limpias (personas que, por agregar, no es la primera vez que juegan)  para empezarlas a subir desde 0 (o desde ciertos rangos), o que quieren skins exclusivas que ya no es posible conseguir con medios convencionales. 
+El principal público que consume estas cuentas son personas que desean cuentas limpias (personas que, por agregar, no es la primera vez que juegan)  para empezarlas a subir desde 0 (o desde ciertos rangos), o que quieren objetos exclusivos (comúnmente skins) que ya no es posible conseguir con medios convencionales. 
 
 ### Descripción de la aplicación
 - [Descripcion](https://github.com/EmaRCB/FastPass/blob/main/Documentaci%C3%B3n/Descripci%C3%B3n.md)
