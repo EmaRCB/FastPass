@@ -13,7 +13,7 @@ Desarrollar un bot para la plataforma de mensajería instantánea “Discord” 
 
 ## Usuarios
 ### Usuarios de discord con interés en comprar una cuenta de League Of Legends
-- Cualquier usuario de Discord que se interese en comprar una cuenta de League of Legends y quiera hacerlo desde su servidor.
+- Cualquier usuario de Discord que se interese en comprar una cuenta de alguno de los videojuegos disponibles y quiera hacerlo desde su servidor.
 
 ## Innovación
 - Discord es una plataforma que ha crecido a pasos agigantados en los últimos años, siendo una herramienta esencial para cualquier fanático de los videojuegos que disfrute de jugar con sus amigos, o encontrar comunidades con quién hablar de sus juegos favoritos. Cada vez se implementan más y más bots con nuevas y mejores funcionalidades, que buscan mejorar la experiencia del usuario con diferentes acciones. El mercado de cuentas es un mercado reciente con una gran ventana de expansión, y buscamos darle a los usuarios una experiencia sencilla en la compra de estas, desde la comodidad de su servidor favorito.
