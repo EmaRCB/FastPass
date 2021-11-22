@@ -16,7 +16,7 @@ FastPass es un bot desarrollado para la plataforma de mensajería instantánea "
 El principal público que consume estas cuentas son personas que desean cuentas limpias (personas que, por agregar, no es la primera vez que juegan)  para empezarlas a subir desde 0 (o desde ciertos rangos), o que quieren objetos exclusivos (comúnmente skins) que ya no es posible conseguir con medios convencionales. 
 
 ### Descripción de la aplicación
-- [Descripcion](https://github.com/EmaRCB/FastPass/blob/main/Documentaci%C3%B3n/Descripci%C3%B3n.md)
+- [Descripcion](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Documentaci%C3%B3n/Descripci%C3%B3n.md)
 - [Planeacion del proyecto](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Documentaci%C3%B3n/PlaneacionDelProyecto.md)
 - [Definición de requerimientos](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Documentaci%C3%B3n/Definici%C3%B3nDeRequerimientos.md)
 - [Casos de uso](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Documentaci%C3%B3n/CasosDeUso.md)
