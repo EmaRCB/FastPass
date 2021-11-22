@@ -72,11 +72,11 @@ Cantidad de requerimientos de usuario en la primera entrega: 2
 Cantidad de requerimientos de usuario en la segunda entrega: 4
 
 
-Cantidad de requerimientos funciones en la primera entrega: 3
+Cantidad de requerimientos funcionales en la primera entrega: 3
 
-Cantidad de requriminetos funciones en la segunda entrega: 6
+Cantidad de requerimientos funcionales en la segunda entrega: 6
 
 
 Cantidad de requerimientos no funcionales en la primera entrega: 3
 
-Cantidad de requerimientos funcionales en la segunda entrega: 3
+Cantidad de requerimientos no funcionales en la segunda entrega: 3
