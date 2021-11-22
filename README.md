@@ -24,7 +24,7 @@ El principal público que consume estas cuentas son personas que desean cuentas 
 - [Diagrama de clases](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Documentaci%C3%B3n/DiagramaDeClases.md)
 
 ### Trabajo en equipo
-- [Proceso de Trabajo](https://github.com/EmaRCB/FastPass/blob/main/Documentaci%C3%B3n/ProcesoTrabajo.md)
+- [Proceso de Trabajo](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Documentaci%C3%B3n/ProcesoTrabajo.md)
 - [Responsabilidades y Contribuciones](https://github.com/EmaRCB/FastPass/blob/main/Documentaci%C3%B3n/Trabajo%20en%20Equipo.md)
 
 ### Proyecto
