@@ -64,3 +64,14 @@ Descripción: El bot estará disponible en este repositorio, para que este pueda
 Prioridad: Alta.
 
 Descripción: El bot será capaz de buscar el resultado más exacto posible de acuerdo a la busqueda realizada por el usuario.
+
+## Diferencia con la primer entrega:
+
+Cantidad de requerimientos de usuario en la primera entrega: 2
+Cantidad de requerimientos de usuario en la segunda entrega: 4
+
+Cantidad de requerimientos funciones en la primera entrega: 3
+Cantidad de requriminetos funciones en la segunda entrega: 6
+
+Cantidad de requerimientos no funcionales en la primera entrega: 3
+Cantidad de requerimientos funcionales en la segunda entrega: 3
