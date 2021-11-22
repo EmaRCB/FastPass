@@ -66,9 +66,10 @@ Prioridad: Alta.
 Descripción: El bot será capaz de buscar el resultado más exacto posible de acuerdo a la busqueda realizada por el usuario.
 
 ## Diferencia con la primer entrega:
--------------------------------------------------------------------
 
+-------------------------------------------------------------------
 Cantidad de requerimientos de usuario en la primera entrega: 2
+
 
 Cantidad de requerimientos de usuario en la segunda entrega: 4
 -------------------------------------------------------------------
