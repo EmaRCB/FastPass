@@ -1,13 +1,13 @@
 # Descripcion del Proyecto
 
 ## Objetivo general
-Desarrollar un bot para la plataforma de mensajería instantánea “Discord” que complemente la plataforma “eldorado.gg”, en concreto, su apartado de venta de cuentas de distintos videojuegos, donde el usuario sea capaz de buscar en Discord una cuenta de League of Legends con especificaciones y, que el bot genere el link donde se alojan las cuentas, basada en ciertas condiciones especificadas en el comando introducido. Finalmente, el bot le regresa al usuario, en forma de mensaje, el link de las cuentas encontradas.
+Desarrollar un bot para la plataforma de mensajería instantánea “Discord” que complemente la plataforma “eldorado.gg”, en concreto, su apartado de venta de cuentas de distintos videojuegos, donde el usuario sea capaz de buscar en Discord cuentas de distintos juegos con ciertas especificaciones y, que el bot genere el link donde se alojan las cuentas, basada en ciertas condiciones especificadas en el comando introducido. Finalmente, el bot le regresa al usuario, en forma de mensaje, el link de las cuentas encontradas.
 
 
 ## Objetivos especificos
-- Lanzar una herramienta gratis y de gran calidad, que complemente a la plataforma eldorado.gg acercándola más al ambiente del público de Discord, al cual se dirige
+- Lanzar una herramienta gratis y de gran calidad, que complemente a la plataforma eldorado.gg acercándola más al ambiente del público de Discord, al cual se dirige este proyecto.
 - Acercar la transacción de cuentas a Discord, al invocar el bot en cualquier servidor, facilitándole la tarea a cualquiera que lo utilice de encontrar una cuenta en venta que satisfaga los requisitos que el usuario solicite, mediante la generación de un link.
-- Crear lazos confiables de compra-venta entre jugadores de League of Legends.
+- Crear lazos confiables de compra-venta entre usuarios de distintos juegos.
 
 ***
 
