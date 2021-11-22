@@ -3,8 +3,6 @@
 ## Requerimientos de usuario
 - El bot debe leer los comandos introducidos por el usuario.
 - El bot debe diferenciar los comandos introducidos por el usuario.
-- El bot debe generar el link correcto solicitado por el usuario.
-- El bot debe ayudar al usuario a generar el link para su juego.
 
 
 ## Requerimientos del sistema
@@ -18,36 +16,18 @@ Descripción: El bot responde con un mensaje tras detectar uno de los comandos p
 
 - RF002. Comando de ayuda.
 
-Prioridad: Alta.
+Prioridad: Alta
 
 Descripción: El bot responde con los comandos disponibles.
 
-- RF003. Búsqueda LOL.
+- RF003. Búsqueda.
 
 Prioridad: Alta
 
-Descripción: El bot responde con el link donde se encuentran las cuentas del videojuego League of Legends.
-
-- RF004. Creación paso a paso.
-
-Prioridad: Alta
-
-Descripción: El bot ayuda al usuario paso a paso a generar el codigo mediante una interacción bot-usuario.
-
-- RF005. Búsqueda Fortnite.
-
-Prioridad: Alta
-
-Descripción: El bot responde con el link donde se encuentran las cuentas del videojuego Fornite.
-
-- RF006. Variación de parámetros.
-
-Prioridad: Alta
-
-Descripción: El bot es capaz de recibir distinto número de parámetros, así como recibirlos en un orden distinto.
+Descripción: El bot responde con el link donde se encuentran las cuentas.
 
 ### Requerimientos no funcionales
-- RNF001. Accesibilidad solo a usuarios de Discord.
+- RNF011. Accesibilidad solo a usuarios de Discord.
 
 Prioridad: Baja
 
@@ -55,40 +35,12 @@ Descripción: Para poder invocar al bot, el usuario necesita estar registrado en
 
 - RNF002. Forma de ingresar.
 
-Prioridad: Media.
+Prioridad: Alta.
 
-Descripción: El bot estará disponible en este repositorio, para que este pueda ser invitado a cualquier servidor.
+Descripción: El bot estará disponible en la página web bots.ondiscord.xyz, donde el usuario buscará el bot y posteriormente, lo añadirá al servidor seleccionado en Discord.
 
 - RNF003. Eficiencia.
 
 Prioridad: Alta.
 
 Descripción: El bot será capaz de buscar el resultado más exacto posible de acuerdo a la busqueda realizada por el usuario.
-
-## Diferencia con la primer entrega:
-
--------------------------------------------------------------------
-Cantidad de requerimientos de usuario en la primera entrega: 2
-
-
-Cantidad de requerimientos de usuario en la segunda entrega: 4
-
--------------------------------------------------------------------
-
-Cantidad de requerimientos funcionales en la primera entrega: 3
-
-Cantidad de requerimientos funcionales en la segunda entrega: 6
-
--------------------------------------------------------------------
-
-Cantidad de requerimientos no funcionales en la primera entrega: 3
-
-Cantidad de requerimientos no funcionales en la segunda entrega: 3
-
----------------------------------------------------------------------------------
-
-Cantidad de requerimientos omitidos de los presentados en la primera entrega: 0
-
-Cantidad de requerimientos agregados para la segunda entrega: 5
-
-Cantidad de requerimientos modificados para la segunda entrega: 0
