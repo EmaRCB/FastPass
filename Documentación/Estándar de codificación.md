@@ -4,6 +4,8 @@
 
 Usa 1 (un) espacio por indentación. Este es el predeterminado trabajando en la herramienta replit.
 
+Evitar la acumulación de sentencias 'if'. En caso de tener algún código de la forma 'if - elif - ... - elif - else' o 'if; if; if; if; else' este debe ser reemplazado por alternativas como el uso de ciclos for con el manejo de listas. 
+
 
 ## Importaciones
 
