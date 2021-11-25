@@ -22,6 +22,7 @@ El principal público que consume estas cuentas son personas que desean cuentas 
 - [Casos de uso](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Documentaci%C3%B3n/CasosDeUso.md)
 - [Diagramas de casos de uso](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Documentaci%C3%B3n/DiagramasDeUso.md)
 - [Diagrama de clases](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Documentaci%C3%B3n/DiagramaDeClases.md)
+- [Diagrama de paquetes](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Documentaci%C3%B3n/Diagrama%20de%20Paquetes.md)
 - [Estándar de codificación](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Documentaci%C3%B3n/Est%C3%A1ndar%20de%20codificaci%C3%B3n.md)
 
 ### Trabajo en equipo
