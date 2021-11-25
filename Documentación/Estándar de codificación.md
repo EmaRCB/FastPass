@@ -45,3 +45,10 @@ En caso de tener texto constante este debe ser almacenado en la base de datos.
 Antes de eliminar algún elemento de la base de datos se debe compilar el código imprimiendo las keys, tras esto se debe hacer una segunda compilación pero esta vez usando directamente la key que se busca eliminar. Esto para comprobar su contenido.
 
 Si se tienen variables que son constantes se almacenan en la base de datos. 
+
+
+## Cambios en el código
+
+Antes de realizar un cambio es importante que se notifique al resto del equipo. Pero hablando del estándar propuesto para esto, al realizar un cambio se comenta sobre el comienzo del cambio el autor de dicho cambio así como la fecha. 
+
+En caso de cambiar grandes cantidades de código respaldar el código antiguo en un archvo.py.
