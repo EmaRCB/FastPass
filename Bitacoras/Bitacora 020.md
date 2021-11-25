@@ -1,3 +1,3 @@
-# Bitácora 015.
+# Bitácora 020.
 - Fecha: 17 de Noviembre de 2021
 - Descripción: En esta fecha, nos reunimos como equipo con el profesor para mostrar los avances de nuestro proyecto. Los asistentes en esta reunión fueron los integrantes: Emanuel y Victor. Gildardo no tuvo asistir por un choque de horarios y Esteban tuvo problemas de luz. En esta reunion,  revisamos la clase propuesta, así como el refactory del código. Finalmente, acordamos continuar con las reuniones en el horario de viernes a las 3:00pm de la tarde. Al final de la reunión, el profesor nos recordó que la fecha de la segunda entrega es el Martes 23 de Noviembre, y que realmente revisemos el porcentaje de contribución individual de los integrantes. Quedó para revisar la próxima sesión: Actualizar diagrama de clases, incluir precio en los parámetros, base de datos para las constantes y revisar la posibilidad de la interacción tanto por texto como por interfaz visual.
