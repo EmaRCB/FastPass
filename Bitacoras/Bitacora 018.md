@@ -1,3 +1,3 @@
-# Bitácora 017.
-- Fecha: 7 de Noviembre de 2021
-- Descripción: En esta fecha el equipo completo tuvo una reunión virtual por medio de la plataforma de discord para explicar el avance que se tenía del código y poder aclarar dudad importantes, entro los temas que se trataron en esa reunión fueron el uso de bibliotecas, la manera en que cada integrante modificaría el código, los avances que se esperaban obtener y los avances que ya se tenían. La reunión duró al
+# Bitácora 018.
+- Fecha: 8 de Noviembre de 2021
+- Descripción: En este día se tuvo la reunión con el maestro para una sesión de dudas, aclaraciones y avances en el cual se expuso el avance que se tenía del código. El profesor dio algunas recomendaciones y opiniones acerca del proyecto. En resumen en la reunión se trataron estos temas: Se identificó que hacen las funciones, así como la propuesta de utilizar diccionarios. Quedó para revisar la próxima sesión: Clases en Python y refactory en el código.
