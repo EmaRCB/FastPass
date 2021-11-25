@@ -43,7 +43,7 @@ Si un bloque de código ocupa al menos 20 sentencias distintas. Debe considerars
 Considerar el uso de clases para agrupar funciones que trabajen de la misma forma ya sea en otras partes del código suelto o incluso en otras clases.
 
 
-## Demasiado texto
+## Texto
 
 Todo el texto que se utilice como una constante debe ser almacenado en la base de datos.
 
