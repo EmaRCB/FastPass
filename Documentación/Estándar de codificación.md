@@ -6,6 +6,14 @@ Usa 1 (un) espacio por indentación. Este es el predeterminado trabajando en la 
 
 Evitar la acumulación de sentencias 'if'. En caso de tener algún código de la forma 'if - elif - ... - elif - else' o 'if; if; if; if; else' este debe ser reemplazado por alternativas como el uso de ciclos for con el manejo de listas. 
 
+Para el nombramiento de funciones, variables, keys y otros que lo ameriten. Se utilizará la el camelCase.
+
+Para el caso de las funciones los nombres de estas deben corresponder a verbos, el idioma de estos puede variar.
+
+Para el caso de las clases los nombres de estas deben corresponder a sustantivos, el idioma de estos debe ser en español.
+
+Se puede alternar entre el uso del español e inglés en el código, esto para solventar los problemas que puede tener utilizar caracteres especiales como la 'ñ'
+
 
 ## Importaciones
 
