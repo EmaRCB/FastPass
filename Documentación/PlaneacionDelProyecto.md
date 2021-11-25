@@ -15,8 +15,8 @@
 | 5 | Recopilación de la información para la primera entrega | 9/Oct - 11/Oct | Todo el equipo | Requerimientos, casos de uso, diagrama de clases, descripción del proyecto |
 | 6 | Presentación de la información para la primera entrega | 11/Oct - 12/Oct | Todo el equipo | Video con la información pedida para la primera entrega y el repositorio actualizado |
 | 7 | Definición de roles | 13/Oct - 15/Oct | Todo el equipo | Organización de los roles de equipo y responsabilides para la codificación y diseño del bot |
-| 8 | Inicia del proceso de trabajo | Sin definir aún | Todo el equipo | Comienzo de la codificación del codigo |
-| 9 | Juntas para observar el progreso | Sin definir aún | Todo el equipo | Versiones del producto |
+| 8 | Juntas para observar el progreso | 17/Oct, 31/Oct, 14/Nov, 21/Nov | Todo el equipo | Versiones del producto |
+| 9 | Inicia del proceso de trabajo | 18/Oct | Todo el equipo | Comienzo de la codificación del codigo |
 | 10 | Recopilación de la información para la segunda entrega | Sin definir aún | Sin definir aún | Documentación pedida para la segunda entrega |
 | 11 | Presentación de la información para la segunda entrega | Sin definir aún | Sin definir aún | Primeras versiones de prueba del producto |
 | 12 | Recopilación de la información para la tercera entrega | Sin definir aún | Sin definir aún | Documentación pedida para la segunda entrega |
