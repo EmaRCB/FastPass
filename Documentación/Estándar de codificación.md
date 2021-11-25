@@ -52,3 +52,13 @@ Si se tienen variables que son constantes se almacenan en la base de datos.
 Antes de realizar un cambio es importante que se notifique al resto del equipo. Pero hablando del estándar propuesto para esto, al realizar un cambio se comenta sobre el comienzo del cambio el autor de dicho cambio así como la fecha. 
 
 En caso de cambiar grandes cantidades de código respaldar el código antiguo en un archvo.py.
+
+
+## Uso de comentarios
+
+Los comentarios deben tener una duración máxima de dos días. Tras esto son eliminados para tener más limpieza en el código.
+
+Se hacen comentarios en estas situaciones:
+- El bloque de código que sigue al comentario es complejo y su comprensión no es intiutiva.
+- Se realizaron cambios importantes a bloques de código.
+- Se da por concluido algún proceso importante, por lo que a priori no va a recibir más cambios.
