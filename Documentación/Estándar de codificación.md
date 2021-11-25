@@ -1,11 +1,11 @@
-## Estándar de codificación
+# Estándar de codificación
 
-# Diseño del código
+## Diseño del código
 
 Usa 1 (un) espacio por indentación. Este es el predeterminado trabajando en la herramienta replit.
 
 
-# Importaciones
+## Importaciones
 
 Más de una importación puede estar en la misma línea que otra.
 
