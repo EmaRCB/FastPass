@@ -1,7 +1,7 @@
 # Casos de uso
 
 
-![casouso1.png](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Recursos/casouso1.jpg?raw=true)
+![casouso1.png](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Recursos/caouso1.jpg?raw=true)
 
 
 ![casouso2.png](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Recursos/casouso2.jpg?raw=true)
@@ -17,3 +17,6 @@
 
 
 ![casouso6.png](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Recursos/casouso6.jpg?raw=true)
+
+
+![casouso7.png](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Recursos/casouso7.jpg?raw=true)
