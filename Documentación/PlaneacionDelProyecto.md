@@ -25,8 +25,10 @@
 | 15 | Junta para la entrega del sprint 3 | 21/Nov | Todo el equipo | Se revisan resultados del Spring 3, se declaran tareas para el proceso de documentación |
 | 16 | Documentacion de la información para la segunda entrega | 24/Nov - 26/Nov | Todo el equipo | Actualización de documentos de la entrega 1 en el repositorio y adición del Estandar de codificación |
 | 17 | Presentación de la información para la segunda entrega | 26/Nov | Todo el equipo | Primeras versiones de prueba del producto |
-| 18 | Recopilación de la información para la tercera entrega | Sin definir aún | Sin definir aún | Documentación pedida para la segunda entrega |
-| 19 | Presentación de la información para la tercera entrega | Sin definir aún | Sin definir aún | Producto final |
+| 18 | Spring 4 | 28/Nov - 2/Dic | Todo el equipo | Creación de la clase madre, proceso de interacción con interfaz |
+| 19 | Junta para la entrega del sprint 4 | 2/Dic | Todo el equipo | Se revisan resultados del Spring 4, se identifican posibles errores en el proyecto |
+| 20 | Recopilación de la información para la tercera entrega y corrección de errores | 2/Dic-6/Dic | Todo el equipo | Documentación pedida para la segunda entrega |
+| 21 | Presentación de la información para la tercera entrega | 7/Dic | Sin definir aún | Todo el equipo |
 
 ## Repositorio
 [FastPass](https://github.com/EmaRCB/FastPass)
