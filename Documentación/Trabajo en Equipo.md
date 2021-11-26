@@ -37,15 +37,17 @@ Subjetivamente como equipo asignares el tamaño de camisa a cada terea realizada
 
 **Contribución actual. Ultima actualización: 12/10/2021**
 
-**Total de puntos:** 174 pts
+**Total de puntos:** 271 pts
 
-**Emanuel Chávez:** 52 / 29.88%
+**Emanuel Chávez:** 92 / 34.00%
 
-**Victor Flores:** 49 / 28.16%
+**Victor Flores:** 101 / 37.5%
 
-**Gildardo Maldonado:** 35 / 20.11%
+**Esteban Vargas:** 43 / 15.5%
 
-**Esteban Vargas:** 38 / 21.83%
+**Gildardo Maldonado:** 35 / 13.0%
+
 
 ## Porcentaje de avance 
-Para la primera entrega de avances del proyecto se completó la documentación requerida como se tenía estipulado en la planeación de tareas del proyecto, por lo que como equipo determinamos que el proyecto está un 33.33% completo, debido a que falta la parte de programación y su respectiva documentación.  
+Para la primera entrega de avances del proyecto se completó la documentación requerida como se tenía estipulado en la planeación de tareas del proyecto, por lo que como equipo determinamos que el proyecto está un 15.00% completo, debido a que falta la parte de programación y su respectiva documentación.
+Para la segunda entrega de avance del proyecto, se completó en su mayoría la parte de la codificación para el funcionamiento adecuado del bot con los juegos: League of Legends y Fortnite. De igual manera, se finalizó la programación de la interacción del bot con el usuario. Determinamos que el proyecto esta en un 75% completado. Se busca implementar aun mas juegos disponibles en el sitio web "eldorado.gg", además se necesita la creación de una clase madre para un funcionamiento adecuado del código y finalmente, la corrección de futuros errores.
