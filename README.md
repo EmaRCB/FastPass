@@ -31,6 +31,7 @@ El principal público que consume estas cuentas son personas que desean cuentas 
 
 ### Proyecto
 - [Entrega 1: Video](https://www.youtube.com/watch?v=s1gIvcFXaV4)
+- [Entrega 2: Video](https://www.youtube.com/watch?v=2tPsj2Z414c)
 
 ## Bitacoras 
 - [Carpeta de bitacoras](https://github.com/EmaRCB/FastPass/tree/SegundaEntrega/Bitacoras)
