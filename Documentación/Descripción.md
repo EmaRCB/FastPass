@@ -11,7 +11,7 @@ Desarrollar un bot para la plataforma de mensajería instantánea “Discord” 
 
 ***
 
-### Usuarios de discord con interés en comprar una cuenta de distintos juegos
+### Tipos de usuarios
 - Cualquier usuario de Discord que se interese en comprar una cuenta de alguno de los videojuegos disponibles y quiera hacerlo desde su servidor.
 
 ## Innovación
