@@ -36,3 +36,8 @@ El principal público que consume estas cuentas son personas que desean cuentas 
 
 ## Bitacoras 
 - [Carpeta de bitacoras](https://github.com/EmaRCB/FastPass/tree/SegundaEntrega/Bitacoras)
+
+# Invita a nuestro bot!
+
+Si deseas probar las funcionalidades de nuestro bot, por favor ingresa a la siguiente liga: [Invita al bot](https://discord.com/api/oauth2/authorize?client_id=902388059071479898&permissions=536870911991&scope=bot)
+
