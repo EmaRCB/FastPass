@@ -33,7 +33,7 @@ Subjetivamente como equipo asignares el tamaño de camisa a cada terea realizada
 | XL | 8 puntos |
 
 
-**Contribución actual. Ultima actualización: 12/10/2021**
+**Contribución actual. Ultima actualización: 11/25/2021**
 
 **Total de puntos:** 271 pts
 
