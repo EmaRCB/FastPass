@@ -31,5 +31,5 @@
 | 21 | Presentación de la información para la tercera entrega | 7/Dic | Sin definir aún | Todo el equipo |
 
 ## Repositorio
-[FastPass](https://github.com/EmaRCB/FastPass)
+[FastPass](https://github.com/EmaRCB/FastPass/tree/SegundaEntrega)
 
