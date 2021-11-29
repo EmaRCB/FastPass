@@ -65,6 +65,7 @@ En caso de cambiar grandes cantidades de código respaldar el código antiguo en
 
 Al terminar una 'jornada' de trabajo en el código, asegurarse que este siga funcionando, con esto se refiere a que el código siga compilando.
 
+Si se desea actualizar el repositorio del código al realizar cambios, estos deben ser sustanciales. Los suficientes para que se pueda considerar que es otra versión del bot.
 
 ## Uso de comentarios
 
