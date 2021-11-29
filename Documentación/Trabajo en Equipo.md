@@ -2,7 +2,7 @@
 ### Responsabilidades generales 
 Trabajar de manera correcta y positiva; e informar de los cambios realizados al proyecto. Buscar la manera de ayudar a los demás integrantes y ser proactivo a la hora de trabajar y de participar en el proyecto. 
 ### Responsabilidades individuales 
-  - Gildado Adrián Maldonado Santiago:
+  - Victor Flores Juárez:
 
 
   Coordinar el equipo para buscar la eficiencia, repartir el trabajo entre todos los integrantes del equipo y ser el contacto con el profesor ante una emergencia.
@@ -12,8 +12,6 @@ Trabajar de manera correcta y positiva; e informar de los cambios realizados al 
   - Esteban Vargas Alonso:
 
 
-  Trabajar en las tareas asignadas por el jefe del equipo, ayudar en la parte de la documentación y del proceso de desarrollo. 
-  - Victor Flores Juárez:
 
 
    Trabajar en las tareas asignadas por el jefe del equipo, audar en la parte de la domcumentación y del proceso de desarrollo. 
