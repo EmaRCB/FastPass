@@ -4,7 +4,6 @@
 ### Equipo 1.
 - Flores Juárez Víctor
 - Chavez Bagundo Emanuel
-- Maldonado Santiago Gildardo Adrián
 - Vargas Alonso Esteban
 
 
