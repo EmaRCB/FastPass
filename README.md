@@ -22,7 +22,7 @@ The main audience that consumes these accounts are people who want clean account
 - [Use case diagrams](https://github.com/EmaRCB/FastPass/blob/TerceraEntrega/Documentaci%C3%B3n/Diagrams%20of%20use%20cases..md)
 - [Diagram of classes](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Documentaci%C3%B3n/DiagramaDeClases.md)
 - [Diagram of packages](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Documentaci%C3%B3n/Diagrama%20de%20Paquetes.md)
-- [Standard of coding](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Documentaci%C3%B3n/Est%C3%A1ndar%20de%20codificaci%C3%B3n.md)
+- [Standard of coding](https://github.com/EmaRCB/FastPass/blob/TerceraEntrega/Documentaci%C3%B3n/Coding%20standard.md)
 - [Code repository](https://github.com/VictorFloresJuarez/Fast-Pass)
 - [Responsibilities and Contributions](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Documentaci%C3%B3n/Mapeo%20de%20requerimientos.md)
 
