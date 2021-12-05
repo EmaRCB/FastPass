@@ -26,7 +26,7 @@ Subjectively as a team you assign the shirt size to each terea made so you have 
 
 | Size | Points | 
 | --- | --- |
-| XS| 1 points |
+| XS| 1 point |
 | S | 2 points |
 | M | 3 points |
 | L | 5 points |
@@ -35,7 +35,7 @@ Subjectively as a team you assign the shirt size to each terea made so you have 
 
 **Current contribution. Last updated: 11/25/2021***
 
-**Total stitches:** 271 sts
+**Total points:** 271 sts
 
 ***Emanuel Chávez:** 92 / 34.00%
 
