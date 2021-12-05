@@ -1,77 +1,78 @@
-# Estándar de codificación
+# Standard of coding
 
-## Diseño del código
+## Design of the code
 
-Usa 1 (un) espacio por indentación. Este es el predeterminado trabajando en la herramienta replit.
+Use 1 (a) indentation space. This is the default working on the replit tool.
 
-Evitar la acumulación de sentencias 'if'. En caso de tener algún código de la forma 'if - elif - ... - elif - else' o 'if; if; if; if; else' este debe ser reemplazado por alternativas como el uso de ciclos for con el manejo de listas. 
+Avoid the accumulation of 'if' sentences. In case you have any code of the form 'if - elif - ... - elif - else' or 'if; if; if; if; else' this must be replaced by alternatives such as the use of cycles for with the handling of lists. 
 
-Para el nombramiento de funciones, variables, keys y otros que lo ameriten. Se utilizará la el camelCase.
+For the appointment of functions, variables, keys and others that merit it. The camelCase will be used.
 
-Para el caso de las funciones los nombres de estas deben corresponder a verbos, el idioma de estos puede variar.
+For the case of functions the names of these must correspond to verbs, the language of these can vary.
 
-Para el caso de las clases los nombres de estas deben corresponder a sustantivos, el idioma de estos debe ser en español.
+In the case of classes the names of these must correspond to nouns, the language of these must be in Spanish.
 
-Se puede alternar entre el uso del español e inglés en el código, esto para solventar los problemas que puede tener utilizar caracteres especiales como la 'ñ'
-
-
-## Importaciones
-
-Más de una importación puede estar en la misma línea que otra.
-
-Las importaciones se realizan en este orden basado en su importancia:
-- Importaciones que son vitales para el funcionamiento del bot.
-- Importación de la base de datos, si es que se utiliza.
-- Importación de clases.
-- Importación de funciones locales.
+You can switch between the use of Spanish and English in the code, this to solve the problems that can have using special characters like the 'ñ'
 
 
-## Espacios en blanco
+Imports
 
-Se pueden dejar líneas de código para diferenciar el comienzo de un proceso con el fin de otro. 
+More than one import can be on the same line as another.
 
-Los espacios en blanco innecesarios en sentencias deben tratar de omitirse a toda costa.
-
-
-## Uso de funciones
-
-Si un bloque de código ocupa al menos 20 sentencias distintas. Debe considerarse profundamente el uso de funciones. Para el caso del archivo principal 'main' sí o sí llegadas las 20 líneas de código se debe agrupar en una función.
-
-
-## Uso de clases
-
-Considerar el uso de clases para agrupar funciones que trabajen de la misma forma ya sea en otras partes del código suelto o incluso en otras clases.
+Imports are made in this order based on their importance:
+- Imports that are vital to the operation of the bot.
+- Import of the database, if used.
+- Importation of classes.
+- Import of local functions.
 
 
-## Texto
+## Blank spaces
 
-Todo el texto que se utilice como una constante debe ser almacenado en la base de datos.
+Lines of code can be left to differentiate the beginning of one process from another. 
 
-
-## Uso de la base de datos
-
-En caso de tener texto constante este debe ser almacenado en la base de datos.
-
-Antes de eliminar algún elemento de la base de datos se debe compilar el código imprimiendo las keys, tras esto se debe hacer una segunda compilación pero esta vez usando directamente la key que se busca eliminar. Esto para comprobar su contenido.
-
-Si se tienen 'variables' que son constantes (como los diccionarios o listas) se almacenan en la base de datos. 
+Unnecessary blanks in sentences should be avoided at all costs.
 
 
-## Cambios en el código
+## Use of functions
 
-Antes de realizar un cambio es importante que se notifique al resto del equipo. Pero hablando del estándar propuesto para esto, al realizar un cambio se comenta sobre el comienzo del cambio el autor de dicho cambio así como la fecha. 
+If a code block occupies at least 20 different statements. Use of functions should be deeply considered. In the case of the main file 'main' yes or yes arrived the 20 lines of code must be grouped in a function.
 
-En caso de cambiar grandes cantidades de código respaldar el código antiguo en un archvo.py.
 
-Al terminar una 'jornada' de trabajo en el código, asegurarse que este siga funcionando, con esto se refiere a que el código siga compilando.
+## Use of classes
 
-Si se desea actualizar el repositorio del código al realizar cambios, estos deben ser sustanciales. Los suficientes para que se pueda considerar que es otra versión del bot.
+Consider using classes to group functions that work the same way either in other parts of the code or even in other classes.
 
-## Uso de comentarios
 
-Los comentarios deben tener una duración máxima de dos días. Tras esto son eliminados para tener más limpieza en el código.
+## Text
 
-Se hacen comentarios en estas situaciones:
-- El bloque de código que sigue al comentario es complejo y su comprensión no es intiutiva.
-- Se realizaron cambios importantes a bloques de código.
-- Se da por concluido algún proceso importante, por lo que a priori no va a recibir más cambios.
+All text that is used as a constant must be stored in the database.
+
+
+## Use of the database
+
+In case of having constant text this must be stored in the database.
+
+Before deleting any element from the database you must compile the code by printing the keys, after this you must make a second compilation but this time directly using the key you are looking to delete. This is to check its contents.
+
+If you have 'variables' that are constant (such as dictionaries or lists) they are stored in the database. 
+
+
+## Changes in the code
+
+Before making a change it is important to notify the rest of the team. But speaking of the proposed standard for this, when making a change it is commented on the beginning of the change the author of such change as well as the date. 
+
+In case you change large amounts of code back the old code in a.pyfile.
+
+At the end of a 'day' work on the code, make sure it continues to work, by which I mean the code continues to compile.
+
+If you want to update the code repository when making changes, these must be substantial. Enough to be considered another version of the bot.
+
+
+## Use of comments
+
+Comments must be of a maximum duration of two days (unless they explain the basic functioning of functions or code blocks). After this they are removed to have more cleaning in the code.
+
+Comments are made in these situations:
+- The code block following the comment is complex and its understanding is not intimate.
+- Important changes were made to code blocks.
+- Some important process is concluded, so a priori you will not receive more changes.
