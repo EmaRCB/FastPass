@@ -1,94 +1,134 @@
-# Definicion de Requerimientos
+# Definition of requirements
 
-## Requerimientos de usuario
-- El bot debe leer los comandos introducidos por el usuario.
-- El bot debe diferenciar los comandos introducidos por el usuario.
-- El bot debe generar el link correcto solicitado por el usuario.
-- El bot debe ayudar al usuario a generar el link para su juego.
+## User requirements
+- The bot must read the commands entered by the user.
+- The bot must differentiate the commands entered by the user.
+- The bot must generate the correct link requested by the user.
+- The bot must help the user to generate the link for their game.
 
 
-## Requerimientos del sistema
+## System requirements
 
-### Requerimientos funcionales
-- RF001. Forma de responder.
+### Functional requirements
+- RF001. Form of reply.
 
-Prioridad: Alta
+Priority: High
 
-Descripción: El bot responde con un mensaje tras detectar uno de los comandos para los que fue programado.
+Description: The bot responds with a message after detecting one of the commands for which it was programmed.
 
-- RF002. Comando de ayuda.
+- RF002. Help command.
 
-Prioridad: Alta.
+Priority: High.
 
-Descripción: El bot responde con los comandos disponibles.
+Description: The bot responds with the available commands.
 
-- RF003. Búsqueda LOL.
+- RF003. Search LOL.
 
-Prioridad: Alta
+Priority: High
 
-Descripción: El bot responde con el link donde se encuentran las cuentas del videojuego League of Legends.
+Description: The bot responds with the link where the accounts of the video game League of Legends are.
 
-- RF004. Creación paso a paso.
+- RF004. Step by step creation.
 
-Prioridad: Alta
+Priority: High
 
-Descripción: El bot ayuda al usuario paso a paso a generar el codigo mediante una interacción bot-usuario.
+Description: The bot helps the user step by step to generate the code through a bot-user interaction.
 
-- RF005. Búsqueda Fortnite.
+- RF005. Fortnite search.
 
-Prioridad: Alta
+Priority: High
 
-Descripción: El bot responde con el link donde se encuentran las cuentas del videojuego Fornite.
+Description: The bot responds with the link where the accounts of the video game Fornite are.
 
-- RF006. Variación de parámetros.
+- RF006. Search COD.
 
-Prioridad: Alta
+Priority: High
 
-Descripción: El bot es capaz de recibir distinto número de parámetros, así como recibirlos en un orden distinto.
+Description: The bot responds with the link where the COD game accounts are located.
 
-### Requerimientos no funcionales
-- RNF001. Accesibilidad solo a usuarios de Discord.
+- RF007. Apex search.
 
-Prioridad: Baja
+Priority: High
 
-Descripción: Para poder invocar al bot, el usuario necesita estar registrado en Discord y ser parte de un servidor en específico, al cual será añadido el bot.
+Description: The bot responds with the link where the accounts of the video game Apex are.
 
-- RNF002. Forma de ingresar.
+- RF008. GTAV search.
 
-Prioridad: Media.
+Priority: High
 
-Descripción: El bot estará disponible en este repositorio, para que este pueda ser invitado a cualquier servidor.
+Description: The bot responds with the link where the accounts of the game GTAV are.
 
-- RNF003. Eficiencia.
+- RF009. PlayStation Search.
 
-Prioridad: Alta.
+Priority: High
 
-Descripción: El bot será capaz de buscar el resultado más exacto posible de acuerdo a la busqueda realizada por el usuario.
+Description: The bot responds with the link where the PlayStation accounts are located.
 
-## Diferencia con la primer entrega:
+- RF010. Xbox Search.
+
+Priority: High
+
+Description: The bot responds with the link where the Xbox accounts are located.
+
+- RF011. Variation of parameters.
+
+Priority: High
+
+Description: The bot is capable of receiving different number of parameters, as well as receiving them in a different order.
+
+### Non-functional requirements
+- RNF001. Accessibility only to Discord users.
+
+Priority: Low
+
+Description: In order to invoke the bot, the user needs to be registered with Discord and be part of a specific server, to which the bot will be added.
+
+- RNF002. How to enter.
+
+Priority: Medium.
+
+Description: The bot will be available in this repository, so that it can be invited to any server.
+
+- RNF003. Efficiency.
+
+Priority: High.
+
+Description: The bot will be able to find the most accurate result possible according to the search performed by the user.
+
+## Difference with the first and second delivery:
 
 -------------------------------------------------------------------
-Cantidad de requerimientos de usuario en la primera entrega: 2
+Number of user requirements in the first delivery: 2
 
 
-Cantidad de requerimientos de usuario en la segunda entrega: 4
+Number of user requirements in the second installment: 4
 
--------------------------------------------------------------------
-
-Cantidad de requerimientos funcionales en la primera entrega: 3
-
-Cantidad de requerimientos funcionales en la segunda entrega: 6
+Number of user requirements in the third installment: 4
 
 -------------------------------------------------------------------
 
-Cantidad de requerimientos no funcionales en la primera entrega: 3
+Number of functional requirements in the first delivery: 3
 
-Cantidad de requerimientos no funcionales en la segunda entrega: 3
+Number of functional requirements in the second delivery: 6
+
+Number of functional requirements in the third installment: 11
+
+-------------------------------------------------------------------
+
+Number of non-functional requirements in the first delivery: 3
+
+Number of non-functional requirements in the second instalment: 3
+
+Number of non-functional requirements in the third installment: 3
 
 ---------------------------------------------------------------------------------
 
-Cantidad de requerimientos omitidos de los presentados en la primera entrega: 0
+Number of requirements omitted from those presented in the first instalment: 0
 
-Cantidad de requerimientos agregados para la segunda entrega: 5
+Number of requirements added for the second delivery: 5
 
-Cantidad de requerimientos modificados para la segunda entrega: 0
+Number of requirements modified for the second delivery: 0
+
+Number of requirements added for the third delivery: 5
+
+Number of requirements modified for the third delivery: 0
