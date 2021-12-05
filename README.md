@@ -29,7 +29,8 @@ The main audience that consumes these accounts are people who want clean account
 
 ### Team
 - [Process of Work](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Documentaci%C3%B3n/ProcesoTrabajo.md)
-- [Responsibilities and Contributions](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Documentaci%C3%B3n/Trabajo%20en%20Equipo.md)
+- [Responsibilities and Contributions](https://github.com/EmaRCB/FastPass/edit/TerceraEntrega/Documentaci%C3%B3n/Evidence%20of%20use%20of%20the%20repository%20throughout%20the%20semester.md)
+- [Evidence of use of the repository throughout the semester]()
 
 ### Project
 - [Delivery 1: Video](https://www.youtube.com/watch?v=s1gIvcFXaV4)
