@@ -25,6 +25,7 @@ The main audience that consumes these accounts are people who want clean account
 - [Standard of coding](https://github.com/EmaRCB/FastPass/blob/TerceraEntrega/Documentaci%C3%B3n/Coding%20standard.md)
 - [Code repository](https://github.com/VictorFloresJuarez/Fast-Pass)
 - [Responsibilities and Contributions](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Documentaci%C3%B3n/Mapeo%20de%20requerimientos.md)
+- [Mapping of requirements](https://github.com/EmaRCB/FastPass/blob/TerceraEntrega/Documentaci%C3%B3n/Mapping%20of%20requirements.md)
 
 ### Team
 - [Process of Work](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Documentaci%C3%B3n/ProcesoTrabajo.md)
