@@ -1,4 +1,4 @@
 # Mapeo de requerimientos
 
 
-![MappingOfRequirements.png](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Recursos/mapeoderequerimientos.png?raw=true)
+![MappingOfRequirements.png](https://github.com/EmaRCB/FastPass/blob/TerceraEntrega/Recursos/Mapping%20of%20requirements.png?raw=true)
