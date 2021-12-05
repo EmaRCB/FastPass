@@ -66,5 +66,5 @@ Para el monitoreo de actividades, a cada miembro de equipo se le otorgará una a
 
 
 ### Evidence
-- [monitoring process](https://github.com/EmaRCB/FastPass/blob/TerceraEntrega/Recursos/monitoring%20process.png?raw=true)
-- [monitoring process 2](https://github.com/EmaRCB/FastPass/blob/TerceraEntrega/Recursos/monitoring%20process2.png?raw=true)
+![monitoring process](https://github.com/EmaRCB/FastPass/blob/TerceraEntrega/Recursos/monitoring%20process.png?raw=true)
+![monitoring process 2](https://github.com/EmaRCB/FastPass/blob/TerceraEntrega/Recursos/monitoring%20process2.png?raw=true)
