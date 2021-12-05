@@ -1,43 +1,43 @@
 # FastPass
 <img src="https://github.com/EmaRCB/FastPass/blob/main/Recursos/Logo.png" alt="Logo" width="100%" height="80%">
 
-### Equipo 1.
+### Team 1.
 - Flores Juárez Víctor
 - Chavez Bagundo Emanuel
 - Vargas Alonso Esteban
 
 
-### ¿Qué es FastPass?
+### What is FastPass?
 
-FastPass es un bot desarrollado para la plataforma de mensajería instantánea "Discord" que, mediante el uso de comandos en un canal de texto, entregue a los usuarios de Discord, cuentas de videojuegos con características específicas que estén a la venta en la plataforma "eldorado.gg", generando el link donde se alojen esas cuentas y enviándolo a los usuarios en forma de mensaje a través de una canal de texto.
+FastPass is a bot developed for the instant messaging platform "Discord" that, by using commands in a text channel, delivers to Discord users, video game accounts with specific features that are on sale on the platform "eldorado.gg", generating the link where those accounts are hosted and sending it to users as a message via a text channel.
 
-### ¿A quién va dirigido?
-El principal público que consume estas cuentas son personas que desean cuentas limpias (personas que, por agregar, no es la primera vez que juegan)  para empezarlas a subir desde 0 (o desde ciertos rangos), o que quieren objetos exclusivos (comúnmente skins) que ya no es posible conseguir con medios convencionales. 
+### Who is it addressed to?
+The main audience that consumes these accounts are people who want clean accounts (people who, to add, are not the first to play)  to start raising them from 0 (or from certain ranges), or who want exclusive objects (commonly skins) which is no longer possible with conventional means. 
 
-### Descripción de la aplicación
-- [Descripcion](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Documentaci%C3%B3n/Descripci%C3%B3n.md)
-- [Planeacion del proyecto](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Documentaci%C3%B3n/PlaneacionDelProyecto.md)
-- [Definición de requerimientos](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Documentaci%C3%B3n/Definici%C3%B3nDeRequerimientos.md)
+### Application description
+- [Description](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Documentaci%C3%B3n/Descripci%C3%B3n.md)
+- [Planning of the project](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Documentaci%C3%B3n/PlaneacionDelProyecto.md)
+- [Definition of requirements](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Documentaci%C3%B3n/Definici%C3%B3nDeRequerimientos.md)
 - [Use cases](https://github.com/EmaRCB/FastPass/blob/TerceraEntrega/Documentaci%C3%B3n/Use%20cases.md)
-- [Diagramas de casos de uso](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Documentaci%C3%B3n/DiagramasDeUso.md)
-- [Diagrama de clases](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Documentaci%C3%B3n/DiagramaDeClases.md)
-- [Diagrama de paquetes](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Documentaci%C3%B3n/Diagrama%20de%20Paquetes.md)
-- [Estándar de codificación](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Documentaci%C3%B3n/Est%C3%A1ndar%20de%20codificaci%C3%B3n.md)
-- [Repositorio del código](https://github.com/VictorFloresJuarez/Fast-Pass)
-- [Mapeo de requerimientos](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Documentaci%C3%B3n/Mapeo%20de%20requerimientos.md)
+- [Use case diagrams](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Documentaci%C3%B3n/DiagramasDeUso.md)
+- [Diagram of classes](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Documentaci%C3%B3n/DiagramaDeClases.md)
+- [Diagram of packages](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Documentaci%C3%B3n/Diagrama%20de%20Paquetes.md)
+- [Standard of coding](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Documentaci%C3%B3n/Est%C3%A1ndar%20de%20codificaci%C3%B3n.md)
+- [Code repository](https://github.com/VictorFloresJuarez/Fast-Pass)
+- [Responsibilities and Contributions](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Documentaci%C3%B3n/Mapeo%20de%20requerimientos.md)
 
-### Trabajo en equipo
-- [Proceso de Trabajo](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Documentaci%C3%B3n/ProcesoTrabajo.md)
-- [Responsabilidades y Contribuciones](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Documentaci%C3%B3n/Trabajo%20en%20Equipo.md)
+### Team
+- [Process of Work](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Documentaci%C3%B3n/ProcesoTrabajo.md)
+- [Responsibilities and Contributions](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Documentaci%C3%B3n/Trabajo%20en%20Equipo.md)
 
-### Proyecto
-- [Entrega 1: Video](https://www.youtube.com/watch?v=s1gIvcFXaV4)
-- [Entrega 2: Video](https://www.youtube.com/watch?v=2tPsj2Z414c)
+### Project
+- [Delivery 1: Video](https://www.youtube.com/watch?v=s1gIvcFXaV4)
+- [Delivery 2: Video](https://www.youtube.com/watch?v=2tPsj2Z414c)
 
-## Bitacoras 
-- [Carpeta de bitacoras](https://github.com/EmaRCB/FastPass/tree/SegundaEntrega/Bitacoras)
+## Logbook 
+- [Folder of logs](https://github.com/EmaRCB/FastPass/tree/SegundaEntrega/Bitacoras)
 
-# Invita a nuestro bot!
+# Invite our bot!
 
-Si deseas probar las funcionalidades de nuestro bot, por favor ingresa a la siguiente liga: [Invita al bot](https://discord.com/api/oauth2/authorize?client_id=902388059071479898&permissions=536870911991&scope=bot)
+If you want to test the features of our bot, please enter the following league: [Invite the bot](https://discord.com/api/oauth2/authorize?client_id=902388059071479898&permissions=536870911991&scope=bot)
 
