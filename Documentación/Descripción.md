@@ -1,18 +1,18 @@
-# Description of the Project
+# Descripcion del Proyecto
 
-## General objective
-Develop a bot for the "Discord" instant messaging platform that complements the "eldorado.gg" platform, specifically, its section for the sale of accounts for different video games, where the user is able to search in Discord for accounts of different games with certain specifications and, that the bot generates the link where the accounts are hosted, based on certain conditions specified in the command entered. Finally, the bot returns to the user, in the form of a message, the link of the found accounts.
+## Objetivo general
+Desarrollar un bot para la plataforma de mensajería instantánea “Discord” que complemente la plataforma “eldorado.gg”, en concreto, su apartado de venta de cuentas de distintos videojuegos, donde el usuario sea capaz de buscar en Discord cuentas de distintos juegos con ciertas especificaciones y, que el bot genere el link donde se alojan las cuentas, basada en ciertas condiciones especificadas en el comando introducido. Finalmente, el bot le regresa al usuario, en forma de mensaje, el link de las cuentas encontradas.
 
 
-## Specific objectives
-- Launch a free tool of great quality, that complements the platform eldorado.gg bringing it closer to the environment of the public of Discord, to which this project is directed.
-- Bring the transaction of accounts to Discord, when invoking the bot in any server, facilitating the task to anyone who uses it to find an account in sale that satisfies the requirements that the user requests, by generating a link.
-- Create reliable buying-selling links between users of different games.
+## Objetivos especificos
+- Lanzar una herramienta gratis y de gran calidad, que complemente a la plataforma eldorado.gg acercándola más al ambiente del público de Discord, al cual se dirige este proyecto.
+- Acercar la transacción de cuentas a Discord, al invocar el bot en cualquier servidor, facilitándole la tarea a cualquiera que lo utilice de encontrar una cuenta en venta que satisfaga los requisitos que el usuario solicite, mediante la generación de un link.
+- Crear lazos confiables de compra-venta entre usuarios de distintos juegos.
 
-****
+***
 
-## Types of users
-- Any Discord user who is interested in purchasing an account for any of the games available and wants to do so from their server.
+## Tipos de usuarios
+- Cualquier usuario de Discord que se interese en comprar una cuenta de alguno de los videojuegos disponibles y quiera hacerlo desde su servidor.
 
-## Innovation
-- Discord is a platform that has grown by leaps and bounds in recent years, being an essential tool for any video game fan who enjoys playing with friends, or finding communities with whom to talk about their favorite games. More and more bots are being implemented with new and better functionalities, which seek to improve the user experience with different actions. The account market is a recent market with a large expansion window, and we seek to give users a simple experience in purchasing these, from the comfort of their favorite server.
+## Innovación
+- Discord es una plataforma que ha crecido a pasos agigantados en los últimos años, siendo una herramienta esencial para cualquier fanático de los videojuegos que disfrute de jugar con sus amigos, o encontrar comunidades con quién hablar de sus juegos favoritos. Cada vez se implementan más y más bots con nuevas y mejores funcionalidades, que buscan mejorar la experiencia del usuario con diferentes acciones. El mercado de cuentas es un mercado reciente con una gran ventana de expansión, y buscamos darle a los usuarios una experiencia sencilla en la compra de estas, desde la comodidad de su servidor favorito.
