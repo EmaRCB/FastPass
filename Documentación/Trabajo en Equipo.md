@@ -1,51 +1,53 @@
-## Responsabilidades
-### Responsabilidades generales 
-Trabajar de manera correcta y positiva; e informar de los cambios realizados al proyecto. Buscar la manera de ayudar a los demás integrantes y ser proactivo a la hora de trabajar y de participar en el proyecto. 
-### Responsabilidades individuales 
+## Responsibilities
+#### General responsibilities 
+Work correctly and positively; and report on changes made to the project. Find ways to help other members and be proactive when working and participating in the project. 
+#### Individual responsibilities 
   - Victor Flores Juárez:
 
 
-  Coordinar el equipo para buscar la eficiencia, repartir el trabajo entre todos los integrantes del equipo y ser el contacto con el profesor ante una emergencia.
+  Coordinate the team to seek efficiency, distribute the work among all team members and be the contact with the teacher in an emergency.
   - Emanuel Chavez Bagundo:
 
-  Trabajar en las tareas asignadas por el jefe del equipo, supervisar al equipo con base en las tareas que se les asignó.
+  Work on the tasks assigned by the team leader, supervise the team based on the tasks assigned to them.
   - Esteban Vargas Alonso:
 
 
 
 
-   Trabajar en las tareas asignadas por el jefe del equipo, audar en la parte de la domcumentación y del proceso de desarrollo. 
-## Monitoreo
-Para el monitoreo de actividades, a cada miembro de equipo se le otorgará una actividad especifica necesaria durante los sprint planning. Una vez realizada la actividad, el usuario tendrá que notificar a sus compañeros, ya sea en un daily meeting o durante el sprint review. Ya que todas las actividades necesarias sean repartidas, el product owner deberá ordenarlas en un documento en la aplicación [Trello](https://trello.com/invite/b/1znV3Ph3/2e82d0833387d8dcf2a1ffd1ef8e9d9d/fastpass), donde existiràn 3 apartados: "Pendiente", "Necesita revisión" y "Finalizado". Todas las actividades iniciarán en el apartado pendiente y, una vez terminadas, serán traspasadas al apartado de "Finalizado". En caso de tener dudas acerca de una actividad, el miembro a cargo de ella deberá mover la actividad al apartado de "Necesita revisión" y anunciarlo en el grupo de WhatsApp, donde el resto del equpo ayudará para completar la tarea.
+   Work on the tasks assigned by the team leader, daring on the part of the domcumentación and the development process. 
+Monitoring
+For activity monitoring, each team member will be given a specific activity needed during sprint planning. Once the activity has been done, the user will have to notify their colleagues, either at a daily meeting or during the sprint review. Since all the necessary activities are distributed, the product owner must order them in a document in the application [Trello](https://trello.com/invite/b/1znV3Ph3/2e82d0833387d8dcf2a1ffd1ef8e9d9d/fastpass), where there will be 3 sections: "Pending", "Needs revision" and "Finished". All activities will start in the pending section and, once completed, will be transferred to the section "Finished". In case you have doubts about an activity, the member in charge of it must move the activity to the "Needs review" section and announce it in the WhatsApp group, where the rest of the team will help to complete the task.
 
-## Porcentaje de trabajo individual definido
-Para la medición del porcentaje de trabajo individual definido usaremos el metodo de tamaño de camisas.
-Subjetivamente como equipo asignares el tamaño de camisa a cada terea realizada para así tener la cantidad de puntos logrados por cada integrante. 
+## Percentage of individual work defined
+For the measurement of the defined individual work percentage we will use the shirt size method.
+Subjectively as a team you assign the shirt size to each terea made so you have the amount of points achieved by each member. 
 
-**El mapeo numérico es:**
+***The numerical mapping is:**
 
-| Tamaño | Puntos | 
+| Size | Points | 
 | --- | --- |
-| XS| 1 puntos |
-| S | 2 puntos |
-| M | 3 puntos |
-| L | 5 puntos |
-| XL | 8 puntos |
+| XS| 1 points |
+| S | 2 points |
+| M | 3 points |
+| L | 5 points |
+| XL | 8 points |
 
 
-**Contribución actual. Ultima actualización: 11/25/2021**
+**Current contribution. Last updated: 11/25/2021***
 
-**Total de puntos:** 271 pts
+**Total stitches:** 271 sts
 
-**Emanuel Chávez:** 92 / 34.00%
+***Emanuel Chávez:** 92 / 34.00%
 
-**Victor Flores:** 101 / 37.5%
+***Victor Flores:** 101 / 37.5%
 
-**Esteban Vargas:** 43 / 15.5%
+***Esteban Vargas:** 43 / 15.5%
 
-**Gildardo Maldonado:** 35 / 13.0%
+***Gildardo Maldonado:** 35 / 13.0%
 
 
-## Porcentaje de avance 
-Para la primera entrega de avances del proyecto se completó la documentación requerida como se tenía estipulado en la planeación de tareas del proyecto, por lo que como equipo determinamos que el proyecto está un 15.00% completo, debido a que falta la parte de programación y su respectiva documentación.
-Para la segunda entrega de avance del proyecto, se completó en su mayoría la parte de la codificación para el funcionamiento adecuado del bot con los juegos: League of Legends y Fortnite. De igual manera, se finalizó la programación de la interacción del bot con el usuario. Determinamos que el proyecto esta en un 75% completado. Se busca implementar aun mas juegos disponibles en el sitio web "eldorado.gg", además se necesita la creación de una clase madre para un funcionamiento adecuado del código y finalmente, la corrección de futuros errores.
+
+## Percentage of progress 
+For the first delivery of project progress the required documentation was completed as had been stipulated in the project task planning, so as a team we determined that the project is 15.00% complete, because the programming part and its respective documentation are missing.
+For the second advance installment of the project, most of the encoding part for the proper functioning of the bot was completed with the games: League of Legends and Fortnite. Likewise, the programming of the bot interaction with the user was completed. We determined that the project is 75% completed. It seeks to implement even more games available on the website "eldorado.gg".
+
