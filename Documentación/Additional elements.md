@@ -9,4 +9,6 @@ Our abstraction of object-oriented programming concepts improved, as we felt we 
 
 The clear improvement is that we now have a better understanding of the Python language. This also makes us reflect on the advantages/disadvantages of using one programming language or another.
 
+![Python logo](https://github.com/EmaRCB/FastPass/blob/TerceraEntrega/Recursos/python-logo.png?raw=true)
+
 ------------------------------------------------------------------------------------------------
