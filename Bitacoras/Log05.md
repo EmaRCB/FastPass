@@ -1,0 +1,3 @@
+# Log 005.
+- Date: October 1, 2021
+- Description: On this day, part of the project’s progress in the object-oriented programming class was presented, during the presentation Professor Edgar Cambranes mentioned that the use cases had to be made first to give more clarity to the project so in the afternoon work was started on the use cases, Added to this, the teacher asked for the class diagram of our project for the next session, so we started to make the class diagram. During the research for the realization of the use cases it was proposed to work with the Java programming language for the creation of the bot. 
