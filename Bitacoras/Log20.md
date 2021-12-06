@@ -1,3 +1,3 @@
-Log 020.
+# Log 020.
 - Date: November 8, 2021
 - Description: On this day we had the meeting with the teacher for a session of doubts, clarifications and advances in which the progress of the code was exposed. This session was attended by members Emanuel Chávez and Victor Juarez. Gildardo failed to attend due to scheduling complications and Esteban due to electrical failures in his home. In this session, the professor gave some recommendations and opinions about the project. In summary, the meeting addressed these issues:  We reviewed the proposed class as well as the refactory code.  It remained to review the next session: Update class diagram, include price in the parameters, database for constants and review the possibility of interaction both by text and by visual interface.
