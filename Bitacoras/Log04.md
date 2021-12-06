@@ -1,3 +1,3 @@
-# Bitácora 004.
-- Fecha: 27 de Septiembre de 2021
-- Descripción: Durante este día, se comenzó a realizar el diagrama de caso de uso de nuestro proyecto para ser expuesto a nuestros compañero en la clase de programación orientada a objetos. Al igual se comenzó la descripción del proyecto. Durante la realización de la diagrma de caso de uso se estableció la mecánica que seguiría el bot.
+# Log 004.
+- Date: September 27, 2021
+- Description: During this day, we started to make the use case diagram of our project to be exposed to our partner in the object oriented programming class. The description of the project was also started. During the construction of the case study, the mechanics that would follow the bot were established.
