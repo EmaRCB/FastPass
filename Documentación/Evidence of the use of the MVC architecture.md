@@ -34,6 +34,12 @@
 
 ### View
 
+![evidenceofMVC](https://github.com/EmaRCB/FastPass/blob/TerceraEntrega/Recursos/evidenceofMVC.png?raw=true)
+![evidenceofMVC2](https://github.com/EmaRCB/FastPass/blob/TerceraEntrega/Recursos/evidenceofMVC2.png?raw=true)
 
 
 ### Controller
+
+![evidenceofMVC3](https://github.com/EmaRCB/FastPass/blob/TerceraEntrega/Recursos/evidenceofMVC5.png?raw=true)
+![evidenceofMVC4](https://github.com/EmaRCB/FastPass/blob/TerceraEntrega/Recursos/evidenceofMVC6.png?raw=true)
+
