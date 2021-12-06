@@ -1,3 +1,3 @@
 # Diagrama de clases
 
-![classdiagram.png](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Recursos/UML%20class%20(1).png?raw=true)
+![classdiagram.png](https://github.com/EmaRCB/FastPass/blob/TerceraEntrega/Recursos/class%20diagram.png?raw=true)
