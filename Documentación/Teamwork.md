@@ -49,5 +49,5 @@ Subjectively as a team you assign the shirt size to each terea made so you have 
 
 ## Percentage of progress 
 For the first delivery of project progress the required documentation was completed as had been stipulated in the project task planning, so as a team we determined that the project is 15.00% complete, because the programming part and its respective documentation are missing.
-For the second advance installment of the project, most of the encoding part for the proper functioning of the bot was completed with the games: League of Legends and Fortnite. Likewise, the programming of the bot interaction with the user was completed. We determined that the project is 75% completed. It seeks to implement even more games available on the website "eldorado.gg".
+For the second advance installment of the project, most of the encoding part for the proper functioning of the bot was completed with the games: League of Legends and Fortnite. Likewise, the programming of the bot interaction with the user was completed. We determined that the project is 75% completed. It seeks to implement even more games available on the website "eldorado.gg". For the third installment we determined that the project was completed, based on what we expected, 90%. This is because some additions were missing that for reasons of time cannot be included
 
