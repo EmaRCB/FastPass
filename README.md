@@ -39,7 +39,7 @@ The main audience that consumes these accounts are people who want clean account
 - [Folder of logs](https://github.com/EmaRCB/FastPass/tree/SegundaEntrega/Bitacoras)
 
 ## Additional elements
-- [Additional elements used]()
+- [Additional elements used](https://github.com/EmaRCB/FastPass/blob/TerceraEntrega/Documentaci%C3%B3n/Additional%20elements.md)
 
 # Invite our bot!
 
