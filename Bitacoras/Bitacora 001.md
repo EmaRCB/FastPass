@@ -1,3 +1,0 @@
-# Log 001.
-- Date: September 22, 2021
-- Description: We met for the first time with the teacher to talk about the project and what would develop. The first idea, because we were 2 people on the team, was that of a clockwork. We received comments from the professor about it, he wanted us all to realize something original, however, clarify that not original in the implementation part of code, but of idea or product. That’s how, after this meeting, the idea of making a website for the sales of video game accounts began to develop, an idea not so new, but with a growing and somewhat monopolized market.
