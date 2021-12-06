@@ -10,12 +10,12 @@ Work correctly and positively; and report on changes made to the project. Find w
 
   Work on the tasks assigned by the team leader, supervise the team based on the tasks assigned to them.
   - Esteban Vargas Alonso:
+ 
+Work on the tasks assigned by the team leader, daring on the part of the domcumentación and the development process. 
 
 
 
-
-   Work on the tasks assigned by the team leader, daring on the part of the domcumentación and the development process. 
-Monitoring
+## Monitoring
 For activity monitoring, each team member will be given a specific activity needed during sprint planning. Once the activity has been done, the user will have to notify their colleagues, either at a daily meeting or during the sprint review. Since all the necessary activities are distributed, the product owner must order them in a document in the application [Trello](https://trello.com/invite/b/1znV3Ph3/2e82d0833387d8dcf2a1ffd1ef8e9d9d/fastpass), where there will be 3 sections: "Pending", "Needs revision" and "Finished". All activities will start in the pending section and, once completed, will be transferred to the section "Finished". In case you have doubts about an activity, the member in charge of it must move the activity to the "Needs review" section and announce it in the WhatsApp group, where the rest of the team will help to complete the task.
 
 ## Percentage of individual work defined
