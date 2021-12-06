@@ -17,7 +17,7 @@
 
 
 
-- M are all the classes created in the packages classes and classsAssisted
+- M are all the classes created in the packages clases and clasesAsistidas
 - V is the interface of the Discord text channel.
 - C is the main code 'main'. In particular it would be the client event on_message. It is with this event that you control what is displayed and organizes the necessary steps for the classes (the model) to obtain the necessary data.
 
