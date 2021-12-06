@@ -1,3 +1,3 @@
 # Package diagram
 
-![UMLClassDiagram.png](https://github.com/EmaRCB/FastPass/blob/SegundaEntrega/Recursos/PackageDiagram.jpeg)?raw=true)
+![UMLClassDiagram.png](https://github.com/EmaRCB/FastPass/blob/TerceraEntrega/Recursos/Package%20diagram.png?raw=true)
