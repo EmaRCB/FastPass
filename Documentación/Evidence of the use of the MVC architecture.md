@@ -43,3 +43,9 @@
 ![evidenceofMVC3](https://github.com/EmaRCB/FastPass/blob/TerceraEntrega/Recursos/evidenceofMVC3.png?raw=true)
 ![evidenceofMVC4](https://github.com/EmaRCB/FastPass/blob/TerceraEntrega/Recursos/evidenceofMVC4.png?raw=true)
 
+
+### Extra (clarification)
+
+In the case of view, we also consider that some code statements located in the part of the model are also part of view. Why? Because these sentences are responsible for sending the messages back to the user. An example:
+
+![evidenceofMVC8](https://github.com/EmaRCB/FastPass/blob/TerceraEntrega/Recursos/evidenceofMVC8.png?raw=true)
