@@ -20,7 +20,7 @@ For activity monitoring, each team member will be given a specific activity need
 
 ## Percentage of individual work defined
 For the measurement of the defined individual work percentage we will use the shirt size method.
-Subjectively as a team you assign the shirt size to each terea made so you have the amount of points achieved by each member. 
+Subjectively as a team you assign the shirt size to each task made so you have the amount of points achieved by each member. 
 
 ***The numerical mapping is:**
 
