@@ -23,11 +23,11 @@
 | 13 | Meeting for the delivery of the sprint 2 | 14/Nov | All the team | Spring 2 results are reviewed, tasks are declared for the Spring 3 |
 | 14 | Sprint 3 | 15/Nov - 20/Nov | Victor Flores | Correction of past errors, creation of the class Fortnite, ProcesoDeLlenadoFortnite y ProcesoDeLlenadoLoL |
 | 15 | Meeting for the delivery of the sprint 3 | 21/Nov | All the team | Spring 3 results are reviewed, tasks are declared for the documentation process |
-| 16 | Documentation of the information for the second installment | 24/Nov - 26/Nov | All the equipment | Update of the Installment 1 documents in the repository and addition of the Encoding Standard |
-| 17 | Information presentation for the first delivery | 26/Nov | All equipment | First product test versions |
+| 16 | Documentation of the information for the second installment | 24/Nov - 26/Nov | All the team | Update of the Installment 1 documents in the repository and addition of the Encoding Standard |
+| 17 | Information presentation for the first delivery | 26/Nov | All the team | First product test versions |
 | 18 | Sprint 4 | 28/Nov - 2/Dec | Victor Flores | Creation of the mother class, interaction process with interface |
 | 19 | Meeting for the delivery of the sprint 4 | 2/Dec | Victor Flores | Spring 4 results reviewed, possible errors identified in the project |
-| 20 | Documentation of the information for the third delivery and error correction | 2/Dec-6/Dec | All equipment | Documentation requested for the second delivery |
+| 20 | Documentation of the information for the third delivery and error correction | 2/Dec-6/Dec | All the team | Documentation requested for the second delivery |
 | 21 | Presentation of the information of the third installment | 7/Dec | All the team | All the team |
 
 
