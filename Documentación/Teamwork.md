@@ -35,19 +35,19 @@ Subjectively as a team you assign the shirt size to each task made so you have t
 
 **Current contribution. Last updated: 11/25/2021***
 
-**Total points:** 271 sts
+**Total points:** 327 sts
 
-***Emanuel Chávez:** 92 / 34.00%
+***Emanuel Chávez:** 109 / 33.2%
 
-***Victor Flores:** 101 / 37.5%
+***Victor Flores:** 140 / 42.8%
 
-***Esteban Vargas:** 43 / 15.5%
+***Esteban Vargas:** 43 / 13.0%
 
-***Gildardo Maldonado:** 35 / 13.0%
-
+***Gildardo Maldonado:** 35 / 10.5%
 
 
 ## Percentage of progress 
-For the first delivery of project progress the required documentation was completed as had been stipulated in the project task planning, so as a team we determined that the project is 15.00% complete, because the programming part and its respective documentation are missing.
-For the second advance installment of the project, most of the encoding part for the proper functioning of the bot was completed with the games: League of Legends and Fortnite. Likewise, the programming of the bot interaction with the user was completed. We determined that the project is 75% completed. It seeks to implement even more games available on the website "eldorado.gg". For the third installment we determined that the project was completed, based on what we expected, 90%. This is because some additions were missing that for reasons of time cannot be included
+For the first delivery of the project, the required documentation was completed as had been planned on the project task planning, that's why, as a team, we determined that the project was only 15.00% complete, because the programming part and its respective documentation was missing at that point.
+For the second delivery of the project, most of the encoding part for the proper functioning of the bot was completed with the games: League of Legends and Fortnite. Likewise, the programming of the bot interaction with the user was completed. We determined that the project is 75% completed. It seeks to implement even more games available on the website "eldorado.gg". For the third installment we determined that the project was completed, based on what we expected, 90%. This is because some additions were missing that for reasons of time cannot be included.
+For the final delivery, we have finally implemented more games like we wanted since the beggining of the project, we have also fixed and prevented some bugs that could damage the bot for the discord users. We have concluded that the bot is 100% complete, however it can always be improved, but for now we think the bot is ready to be used by a large number of Discord Users!
 
