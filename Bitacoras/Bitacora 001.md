@@ -1,3 +1,3 @@
-# Bitácora 001.
-- Fecha: 22 de septiembre del 2021
-- Descripción: Nos reunimos por primera vez con el profesor para platicar acerca del proyecto y lo que se desarrollaría. La primera idea, debido a que éramos 2 personas en el equipo, era la de un reloj checador. Recibimos comentarios del profesor acerca de ello, él buscaba que todos realizáramos algo original, sin embargo, aclarar que no original en la parte de implementación de código, sino de idea o producto. Así fue como, después de esta reunión, comenzó a elaborarse la idea de hacer una página web de ventas de cuentas de videojuegos, una idea no tan nueva, pero con un mercado creciente y un poco monopolizada.
+# Log 001.
+- Date: September 22, 2021
+- Description: We met for the first time with the teacher to talk about the project and what would develop. The first idea, because we were 2 people on the team, was that of a clockwork. We received comments from the professor about it, he wanted us all to realize something original, however, clarify that not original in the implementation part of code, but of idea or product. That’s how, after this meeting, the idea of making a website for the sales of video game accounts began to develop, an idea not so new, but with a growing and somewhat monopolized market.
