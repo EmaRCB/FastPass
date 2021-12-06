@@ -1,6 +1,6 @@
 # Evidence of the use of the MVC architecture
 
-
+--------------------------------------------------------------------------------------------------
 MVC is a style of software architecture that separates data from an application, user interface and control logic into three components.
 
 
@@ -9,7 +9,7 @@ V - View: Information sent to the customer
 C - Controller - Intermediate between Model and View
 
 
-
+--------------------------------------------------------------------------------------------------
 For the case of our project we interpret it as follows:
 
 
