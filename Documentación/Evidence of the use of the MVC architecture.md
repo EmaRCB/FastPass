@@ -4,11 +4,11 @@
 ## MVC is a style of software architecture that separates data from an application, user interface and control logic into three components.
 
 
-M - Model: contains a representation of the data handled by the system
+- M - Model: contains a representation of the data handled by the system
 
-V - View: Information sent to the customer
+- V - View: Information sent to the customer
 
-C - Controller - Intermediate between Model and View
+- C - Controller - Intermediate between Model and View
 
 
 
