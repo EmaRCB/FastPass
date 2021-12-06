@@ -38,6 +38,9 @@ The main audience that consumes these accounts are people who want clean account
 ## Logbook 
 - [Folder of logs](https://github.com/EmaRCB/FastPass/tree/SegundaEntrega/Bitacoras)
 
+## Additional elements
+- [Additional elements used]()
+
 # Invite our bot!
 
 If you want to test the features of our bot, please enter the following league: [Invite the bot](https://discord.com/api/oauth2/authorize?client_id=902388059071479898&permissions=536870911991&scope=bot)
