@@ -16,7 +16,7 @@
 | 6 | Presentation of the information for the first delivery | 11/Oct - 12/Oct | All the equipment | Video with the information requested for the first delivery and the updated repository |
 | 7 | Roles Definition | 13/Oct - 15/Oct | The whole team | Organization of team roles and responsibilities for bot coding and design |
 | 8 | Meeting to determine the working process | 17/Oct | All team | Team meeting to clarify the coding process |
-| 9 | The work process begins | 18/Oct | The whole team | Code coding begins |
+| 9 | The work process begins | 18/Oct | The whole team | Code begins |
 | 10 | Sprint 1 | 18/Oct - 31/Oct | All the team | League of Legends class coding, keyElo method coding, keyServer |
 | 11 | Meeting for the delivery of the sprint 1 | 1/Nov | All the team | Spring 1 results are reviewed, tasks are declared for the Spring 2 |
 | 12 | Sprint 2 | 2/Nov - 13/Nov | Victor Flores | Method encoding keyElo, the LeagueOfLegends class is ordered in the same file, the database is created |
