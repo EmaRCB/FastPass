@@ -35,11 +35,10 @@ Other observations regarding the methodology we will implement are:
 
 ## The media
 
-The team will communicate via the WhatsApp, Microsoft Teams and Discord applications respectively.
-- WhatsApp: This application will be the main means of communication of the team, where all the meetings, changes, ideas and implementations that could be added to the project will be agreed.
-- Microsoft Teams: For this application weekly meetings will be held with the advisor/professor: Edgar Cambranes, to whom we will show our weekly advances of the project.
-- Discord: This application will serve us as the main alternative for communication in case WhatsApp is out of service. Additionally, in this application a server will be created where we will observe the effectiveness of the bot.
-
+The team will communicate via WhatsApp, Microsoft Teams and Discord applications respectively.
+- WhatsApp: This application will be the main media of communication of the team, where all the meetings, changes, ideas and implementations that could be added to the project will be agreed.
+- Microsoft Teams: For this application, weekly meetings will be held with the advisor/professor: Edgar Cambranes, to whom we will show our weekly advances of the project.
+- Discord: This application will serve us as the main alternative for communication in case WhatsApp is out of service. Additionally, a server will be created in this application where we will observe the effectiveness of the bot.
 
 ## Instruments of work 
 - Github
@@ -50,12 +49,16 @@ The team will communicate via the WhatsApp, Microsoft Teams and Discord applicat
 - Discord
 - Discord Developer Portal
 - UptimeRobot
+
+
 ## Methods and tools
 - For the encoding of the bot, we will use Replit.
 - For the operation of the bot, the "Discord" platform shall be used. Discord is the communication platform par excellence for many groups of people, including the "gamers", who are the main audience that our project will have. It is the platform where the interaction between the user and our bot will occur.
 - Eldorado.gg is a platform to buy various elements related to video games, among its services we have: sale of objects for games, sale of accounts and boosting service. It is the platform that is intended to complement with our bot.
 - UptimeRobot is a platform that will allow us to keep the bot active 24 hours a day. 
 - Discord Developer Portal is the core of our bot, this is where we "register" the bot.
+
+
 ## Planning 
 It will be planned on the basis of the team’s schedule of activities to have an objective of what is expected to be achieved in each of the project deliveries so that parts of the project need to be changed or removed as the project progresses. 
 This planning will be carried out with the help of Trello, where the team board will have three sections:
