@@ -10,13 +10,13 @@
 | --- | ----------- | ----- | -------------- | ---------------------- |
 | 1 | Project planning | 22/Sep - 28/Sep | All the team | Project choice |
 | 2 | Project definition | 29/Sep - 5/Oct | All the team | First version of the use cases, class diagram and project requirements |
-| 3 | Project documentation | 5/Oct - 12/Oct | The whole team | Project documentation starts and, once it exists, the storage of documents in the repository |
+| 3 | Project documentation | 5/Oct - 12/Oct | All the team | Project documentation starts and, once it exists, the storage of documents in the repository |
 | 4 | Creating the Repository | 6/October | All the team | Creating the repository with the project description |
-| 5 | Documentation of the information for the first delivery | 9/Oct - 11/Oct | All equipment | Requirements, use cases, class diagram, project description |
-| 6 | Presentation of the information for the first delivery | 11/Oct - 12/Oct | All the equipment | Video with the information requested for the first delivery and the updated repository |
-| 7 | Roles Definition | 13/Oct - 15/Oct | The whole team | Organization of team roles and responsibilities for bot coding and design |
+| 5 | Documentation of the information for the first delivery | 9/Oct - 11/Oct | All the team | Requirements, use cases, class diagram, project description |
+| 6 | Presentation of the information for the first delivery | 11/Oct - 12/Oct | All the team | Video with the information requested for the first delivery and the updated repository |
+| 7 | Roles Definition | 13/Oct - 15/Oct | All the team | Organization of team roles and responsibilities for bot coding and design |
 | 8 | Meeting to determine the working process | 17/Oct | All team | Team meeting to clarify the coding process |
-| 9 | The work process begins | 18/Oct | The whole team | Code begins |
+| 9 | The work process begins | 18/Oct | All the team | Code begins |
 | 10 | Sprint 1 | 18/Oct - 31/Oct | All the team | League of Legends class coding, keyElo method coding, keyServer |
 | 11 | Meeting for the delivery of the sprint 1 | 1/Nov | All the team | Spring 1 results are reviewed, tasks are declared for the Spring 2 |
 | 12 | Sprint 2 | 2/Nov - 13/Nov | Victor Flores | Method encoding keyElo, the LeagueOfLegends class is ordered in the same file, the database is created |
