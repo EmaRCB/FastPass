@@ -1,3 +1,3 @@
 # Log 023.
 - Date: November 25, 2021
-- Description: On this date the assignment of tasks for the documentation of the second instalment of the progress of the project began, this assignment was made through the WhatsApp platform, comrade Victor Flores Juárez along with comrade Emanuel made modifications to the class diagram, these modifications based on the comments made by the professor in the last meeting. Similarly, Comrade Gildardo informed us that due to personal problems, he would no longer be part of the project but he made it clear to us that if we needed help in anything, he would gladly help us.
+- Description: This day we prepared what was missing for the second installment. The video and minor details of the repository
