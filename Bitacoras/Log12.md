@@ -1,0 +1,3 @@
+# Log 012.
+- Date: October 13, 2021
+- Description: During this day, we had to expose our project to the rest of our colleagues. As we passed, we had some difficulties with sharing the audio, but we managed to resolve them within the designated time. At the end of the class, the teacher made us some group corrections, of which I considered important and that we could help the following: For the next delivery, it is advisable that we turn on our camera when presenting the video. Make a better order of slides and synthesize ideas. Do not use tables/diagrams in the slideshow that cannot be read. The name of our classes should be more than 1 word and practice before not to have faults with the microphone.
