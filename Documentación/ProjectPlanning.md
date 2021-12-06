@@ -28,7 +28,7 @@
 | 18 | Sprint 4 | 28/Nov - 2/Dec | Victor Flores | More games, abstraction of common methods in classes and improvement of the code in general. |
 | 19 | Meeting for the delivery of the sprint 4 | 2/Dec | Victor Flores | Spring 4 results reviewed, possible errors identified in the project |
 | 20 | Documentation of the information for the third delivery and error correction | 2/Dec-6/Dec | All the team | Documentation requested for the second delivery |
-| 21 | Presentation of the information of the third installment | 7/Dec | All the team | All the team |
+| 21 | Presentation of the information of the third installment | 7/Dec | All the team | Final presentation of the bot and conclusion of the project |
 
 
 ## Repository
