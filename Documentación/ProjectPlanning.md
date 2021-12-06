@@ -31,6 +31,6 @@
 | 21 | Presentation of the information of the third installment | 7/Dec | All the team | All the team |
 
 
-## Repositorio
+## Repository
 [FastPass](https://github.com/EmaRCB/FastPass/tree/SegundaEntrega)
 
