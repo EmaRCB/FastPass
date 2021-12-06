@@ -1,3 +1,3 @@
-# Log 022.
+# Log 021.
 - Date: November 17, 2021
 - Description: On this date, we met as a team with the teacher to show the progress of our project. The attendees at this meeting were the members: Emanuel and Victor. Gildardo did not have to attend due to a scheduling clash and Esteban had light problems. At this meeting,  we reviewed the proposed class as well as the refactory code. Finally, we agreed to continue the meetings on Friday at 3:00pm in the afternoon. At the end of the meeting, the professor reminded us that the date of the second installment is Tuesday, November 23, and that we really review the percentage of individual contribution of the members. It remained to review the next session: Update class diagram, include price in the parameters, database for constants and review the possibility of interaction both by text and by visual interface.
