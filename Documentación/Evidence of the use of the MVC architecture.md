@@ -40,6 +40,6 @@
 
 ### Controller
 
-![evidenceofMVC3](https://github.com/EmaRCB/FastPass/blob/TerceraEntrega/Recursos/evidenceofMVC5.png?raw=true)
-![evidenceofMVC4](https://github.com/EmaRCB/FastPass/blob/TerceraEntrega/Recursos/evidenceofMVC6.png?raw=true)
+![evidenceofMVC3](https://github.com/EmaRCB/FastPass/blob/TerceraEntrega/Recursos/evidenceofMVC3.png?raw=true)
+![evidenceofMVC4](https://github.com/EmaRCB/FastPass/blob/TerceraEntrega/Recursos/evidenceofMVC4.png?raw=true)
 
