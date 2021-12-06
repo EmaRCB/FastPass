@@ -1,3 +1,0 @@
-# Bitácora 012.
-- Fecha: 13 de Octubre de 2021
-- Descripción: Durante este dìa, tuvimos que exponer nuestro proyecto a el resto de nuestros compañeros. Al pasar, tuvimos algunas dificultades con compartir el audio, pero logramos resolverlas en el tiempo designado. Al final de la clase, el maestro nos realizó algunas correcciones grupales, de las cuales consideré importantes y que nos podian ayudar las siguientes: Para la siguiente entrega, es recomendable que prendamos nuestra camará al presentar el video. Realizar un mejor orden de las diapositivas y sintetizar las ideas. No usar tablas/diagramas en la presentación de diapositivas que no se puedan leer. El nombre de nuestras clases deben ser de mas de 1 palabra y practicar antes para no tener fallas con el microfono.
