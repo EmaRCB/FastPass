@@ -25,7 +25,7 @@
 | 15 | Meeting for the delivery of the sprint 3 | 21/Nov | All the team | Spring 3 results are reviewed, tasks are declared for the documentation process |
 | 16 | Documentation of the information for the second installment | 24/Nov - 26/Nov | All the team | Update of the Installment 1 documents in the repository and addition of the Encoding Standard |
 | 17 | Information presentation for the first delivery | 26/Nov | All the team | First product test versions |
-| 18 | Sprint 4 | 28/Nov - 2/Dec | Victor Flores | Creation of the mother class, interaction process with interface |
+| 18 | Sprint 4 | 28/Nov - 2/Dec | Victor Flores | More games, abstraction of common methods in classes and improvement of the code in general. |
 | 19 | Meeting for the delivery of the sprint 4 | 2/Dec | Victor Flores | Spring 4 results reviewed, possible errors identified in the project |
 | 20 | Documentation of the information for the third delivery and error correction | 2/Dec-6/Dec | All the team | Documentation requested for the second delivery |
 | 21 | Presentation of the information of the third installment | 7/Dec | All the team | All the team |
