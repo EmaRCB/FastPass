@@ -1,3 +1,0 @@
-# Bitácora 003.
-- Fecha: 24 de Septiembre de 2021
-- Descripción: Este día, agendamos una reunión con el profesor Edgar Cambranes para discutir nuestros proyectos. Sin embargo, antes de iniciar la clase, decidimos que presentaríamos principalmente la idea de "PlayFast", la cual decidimos cambiarle el nombre a "FastPass". Al iniciar nuestra reunion, le informamos al profesor de los cambios en el equipo y le presentamos nuestro proyecto. Luego de una breve retroalimentación positiva por parte del profesor, decidimos quedarnos con el proyecto de "FastPass" e iniciar a trabajar con el, desechando nuestra segunda idea.
