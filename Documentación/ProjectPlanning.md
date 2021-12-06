@@ -6,29 +6,30 @@
 - [Discord apps](https://discord.com/developers/docs/intro)
 ## Activity calendar & responsabilities
 
-| # | Activity | Date | Responsable | Resulting Products/Artifacts |
+| # | Activity | Date | Responsible | Products/Resultant Artifacts |
 | --- | ----------- | ----- | -------------- | ---------------------- |
-| 1 | Project Planning | 22/Sep - 28/Sep | The entire team | Elección del proyecto |
-| 2 | Project Definition | 29/Sep - 5/Oct | The entire team | Primera versión de los casos de uso, diagrama de clases y requerimientos del proyecto |
-| 3 | Project Documentation | 5/Oct - 12/Oct | The entire team | Se inicia la documentación del proyecto y, una vez exista, el almacenamiento de los documentos en el repositorio |
-| 4 | Creation of the Repository | 6/Octubre | The entire team | Creación del repositorio con la descripción del proyecto |
-| 5 | Documentation of the information for the first delivery | 9/Oct - 11/Oct | The entire team | Requerimientos, casos de uso, diagrama de clases, descripción del proyecto |
-| 6 | Presentation of the information for the first delivery | 11/Oct - 12/Oct | The entire team | Video con la información pedida para la primera entrega y el repositorio actualizado |
-| 7 | Roles Definition | 13/Oct - 15/Oct | The entire team | Organización de los roles de equipo y responsabilides para la codificación y diseño del bot |
-| 8 | Meeting to determinate the work process | 17/Oct | The entire team | Reunion del equipo para aclarar el proceso de codificación |
-| 9 | The work process begins | 18/Oct | The entire team | Comienzo de la codificación del codigo |
-| 10 | Spring 1 | 18/Oct - 31/Oct | The entire team | Codificación de la clase League of Legends, codificación del metodo keyElo, keyServer |
-| 11 | Meeting for the delivery of the sprint 1 | 1/Nov | The entire team | Se revisan resultados del Spring 1, se declaran tareas para el Spring 2 |
-| 12 | Spring 2 | 2/Nov - 13/Nov | Victor Flores | Codificación del metodo keyElo, se ordena la clase LeagueOfLegends en el mismo archivo, se crea la database |
-| 13 | Meeting for the delivery of the sprint 2 | 14/Nov | The entire team | Se revisan resultados del Spring 2, se declaran tareas para el Spring 3 |
-| 14 | Spring 3 | 15/Nov - 20/Nov | Victor Flores | Corrección de errores pasados, creación de la clase Fortnite, ProcesoDeLlenadoFortnite y ProcesoDeLlenadoLoL |
-| 15 | Meeting for the delivery of the sprint 3 | 21/Nov | The entire team | Se revisan resultados del Spring 3, se declaran tareas para el proceso de documentación |
-| 16 | Documentation of the information for the second delivery | 24/Nov - 26/Nov | The entire team | Actualización de documentos de la entrega 1 en el repositorio y adición del Estandar de codificación |
-| 17 | Presentation of the information for the first delivery | 26/Nov | The entire team | Primeras versiones de prueba del producto |
-| 18 | Spring 4 | 28/Nov - 2/Dic | Victor Flores | Creación de la clase madre, proceso de interacción con interfaz |
-| 19 | Meeting for the delivery of the sprint 4 | 2/Dic | Victor Flores | Se revisan resultados del Spring 4, se identifican posibles errores en el proyecto |
-| 20 | Documentation of the information for the third delivery y bug fixing | 2/Dic-6/Dic | The entire team | Documentación pedida para la segunda entrega |
-| 21 | Presentation of the information for the third delivery | 7/Dic | The entire team | Todo el equipo |
+| 1 | Project planning | 22/Sep - 28/Sep | All the team | Project choice |
+| 2 | Project definition | 29/Sep - 5/Oct | All the team | First version of the use cases, class diagram and project requirements |
+| 3 | Project documentation | 5/Oct - 12/Oct | The whole team | Project documentation starts and, once it exists, the storage of documents in the repository |
+| 4 | Creating the Repository | 6/October | All the team | Creating the repository with the project description |
+| 5 | Documentation of the information for the first delivery | 9/Oct - 11/Oct | All equipment | Requirements, use cases, class diagram, project description |
+| 6 | Presentation of the information for the first delivery | 11/Oct - 12/Oct | All the equipment | Video with the information requested for the first delivery and the updated repository |
+| 7 | Roles Definition | 13/Oct - 15/Oct | The whole team | Organization of team roles and responsibilities for bot coding and design |
+| 8 | Meeting to determine the working process | 17/Oct | All team | Team meeting to clarify the coding process |
+| 9 | The work process begins | 18/Oct | The whole team | Code coding begins |
+| 10 | Spring 1 | 18/Oct - 31/Oct | All the team | League of Legends class coding, keyElo method coding, keyServer |
+| 11 | Meeting for the delivery of the sprint 1 | 1/Nov | All the team | Spring 1 results are reviewed, tasks are declared for the Spring 2 |
+| 12 | Primavera 2 | 2/Nov - 13/Nov | Victor Flores | Method encoding keyElo, the LeagueOfLegends class is ordered in the same file, the database is created |
+| 13 | Meeting for the delivery of the sprint 2 | 14/Nov | All the team | Spring 2 results are reviewed, tasks are declared for the Spring 3 |
+| 14 | Primavera 3 | 15/Nov - 20/Nov | Victor Flores | Correction of past errors, creation of the class Fortnite, ProcesoDeLlenadoFortnite y ProcesoDeLlenadoLoL |
+| 15 | Meeting for the delivery of the sprint 3 | 21/Nov | All the team | Spring 3 results are reviewed, tasks are declared for the documentation process |
+| 16 | Documentation of the information for the second installment | 24/Nov - 26/Nov | All the equipment | Update of the Installment 1 documents in the repository and addition of the Encoding Standard |
+| 17 | Information presentation for the first delivery | 26/Nov | All equipment | First product test versions |
+| 18 | Primavera 4 | 28/Nov - 2/Dec | Victor Flores | Creation of the mother class, interaction process with interface |
+| 19 | Meeting for the delivery of the sprint 4 | 2/Dec | Victor Flores | Spring 4 results reviewed, possible errors identified in the project |
+| 20 | Documentation of the information for the third delivery and error correction | 2/Dec-6/Dec | All equipment | Documentation requested for the second delivery |
+| 21 | Presentation of the information of the third installment | 7/Dec | All the team | All the team |
+
 
 ## Repositorio
 [FastPass](https://github.com/EmaRCB/FastPass/tree/SegundaEntrega)
