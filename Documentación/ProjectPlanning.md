@@ -17,15 +17,15 @@
 | 7 | Roles Definition | 13/Oct - 15/Oct | The whole team | Organization of team roles and responsibilities for bot coding and design |
 | 8 | Meeting to determine the working process | 17/Oct | All team | Team meeting to clarify the coding process |
 | 9 | The work process begins | 18/Oct | The whole team | Code coding begins |
-| 10 | Spring 1 | 18/Oct - 31/Oct | All the team | League of Legends class coding, keyElo method coding, keyServer |
+| 10 | Sprint 1 | 18/Oct - 31/Oct | All the team | League of Legends class coding, keyElo method coding, keyServer |
 | 11 | Meeting for the delivery of the sprint 1 | 1/Nov | All the team | Spring 1 results are reviewed, tasks are declared for the Spring 2 |
-| 12 | Primavera 2 | 2/Nov - 13/Nov | Victor Flores | Method encoding keyElo, the LeagueOfLegends class is ordered in the same file, the database is created |
+| 12 | Sprint 2 | 2/Nov - 13/Nov | Victor Flores | Method encoding keyElo, the LeagueOfLegends class is ordered in the same file, the database is created |
 | 13 | Meeting for the delivery of the sprint 2 | 14/Nov | All the team | Spring 2 results are reviewed, tasks are declared for the Spring 3 |
-| 14 | Primavera 3 | 15/Nov - 20/Nov | Victor Flores | Correction of past errors, creation of the class Fortnite, ProcesoDeLlenadoFortnite y ProcesoDeLlenadoLoL |
+| 14 | Sprint 3 | 15/Nov - 20/Nov | Victor Flores | Correction of past errors, creation of the class Fortnite, ProcesoDeLlenadoFortnite y ProcesoDeLlenadoLoL |
 | 15 | Meeting for the delivery of the sprint 3 | 21/Nov | All the team | Spring 3 results are reviewed, tasks are declared for the documentation process |
 | 16 | Documentation of the information for the second installment | 24/Nov - 26/Nov | All the equipment | Update of the Installment 1 documents in the repository and addition of the Encoding Standard |
 | 17 | Information presentation for the first delivery | 26/Nov | All equipment | First product test versions |
-| 18 | Primavera 4 | 28/Nov - 2/Dec | Victor Flores | Creation of the mother class, interaction process with interface |
+| 18 | Sprint 4 | 28/Nov - 2/Dec | Victor Flores | Creation of the mother class, interaction process with interface |
 | 19 | Meeting for the delivery of the sprint 4 | 2/Dec | Victor Flores | Spring 4 results reviewed, possible errors identified in the project |
 | 20 | Documentation of the information for the third delivery and error correction | 2/Dec-6/Dec | All equipment | Documentation requested for the second delivery |
 | 21 | Presentation of the information of the third installment | 7/Dec | All the team | All the team |
