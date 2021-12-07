@@ -34,14 +34,10 @@ The main audience that consumes these accounts are people who want clean account
 ### Project
 - [Delivery 1: Video](https://www.youtube.com/watch?v=s1gIvcFXaV4)
 - [Delivery 2: Video](https://www.youtube.com/watch?v=2tPsj2Z414c)
+- [Delivery 3: Video](https://www.youtube.com/watch?v=Hvco8cXDD8w)
 
 ## Logbook 
 - [Folder of logs](https://github.com/EmaRCB/FastPass/tree/SegundaEntrega/Bitacoras)
 
 ## Additional elements
 - [Additional elements used](https://github.com/EmaRCB/FastPass/blob/TerceraEntrega/Documentaci%C3%B3n/Additional%20elements.md)
-
-# Invite our bot!
-
-If you want to test the features of our bot, please enter the following league: [Invite the bot](https://discord.com/api/oauth2/authorize?client_id=902388059071479898&permissions=536870911991&scope=bot)
-
